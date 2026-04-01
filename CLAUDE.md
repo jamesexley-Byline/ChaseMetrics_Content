@@ -65,6 +65,17 @@ Last updated: [YYYY-MM-DD] by [AGENT/EDITORIAL]
 - **Red Zone Targets**: [count] (YYYY season)
 - **Key Stat**: [one standout metric with context]
 
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pts] | [pos rank] | [overall] | [Round.Pick] |
+| Half-PPR | [pts] | [pos rank] | [overall] | [Round.Pick] |
+| PPR | [pts] | [pos rank] | [overall] | [Round.Pick] |
+
+Source: [projection source], date: [YYYY-MM-DD]
+
+**Format Edge**: [Which scoring format most benefits this player and why]
+
 ### THE TAKE (EDITORIAL — DO NOT MODIFY)
 [This section is written and maintained exclusively in the Cowork channel. The agent must never write to, overwrite, edit, or delete anything in this section.]
 

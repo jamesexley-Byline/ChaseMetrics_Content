@@ -22,6 +22,17 @@ Last updated: 2026-03-31 by AGENT
 - **Red Zone Targets**: 18 (2025 season)
 - **Key Stat**: Led all WRs in target share in games with Matthew Stafford healthy — volume floor is elite
 
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 1.08 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.08 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.08 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: [pending first scan]
+
 ### THE TAKE (EDITORIAL — DO NOT MODIFY)
 [Awaiting editorial input via Cowork channel]
 
