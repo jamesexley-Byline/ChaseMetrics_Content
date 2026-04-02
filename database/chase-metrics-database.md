@@ -2914,28 +2914,28 @@ Source: [pending first scan], date: 2026-04-01
 
 ### STATUS
 ACTIVE
-Last updated: 2026-03-31 by AGENT
+Last updated: 2026-04-01 by AGENT
 
 ### THE DATA
-- **Current ADP**: 1.08 (source: FantasyPros, date: 2026-03-31)
-- **Underdog ADP**: 1.06 (date: 2026-03-31)
-- **ECR Positional Rank**: WR3 of WR (source: FantasyPros)
+- **Current ADP**: 1.06 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 1.04 (date: 2026-04-01)
+- **ECR Positional Rank**: WR1 of WR (source: FantasyPros)
 - **Byline Rank**: [not yet set — awaiting editorial]
-- **Target Share**: 31.2% (2025 season)
-- **Snap Count**: 92.1% (2025 season)
-- **Red Zone Targets**: 18 (2025 season)
-- **Key Stat**: Led all WRs in target share in games with Matthew Stafford healthy — volume floor is elite
+- **Target Share**: ~31% (2025 season)
+- **Snap Count**: ~92% (2025 season)
+- **Red Zone Targets**: ~22 (2025 season)
+- **Key Stat**: Led NFL in receptions (129) and is all-time leader in receiving yards per game (95.3)
 
 ### SCORING PROJECTIONS
 | Format | Projected Points | Positional Rank | Overall Rank | ADP |
 |--------|-----------------|-----------------|--------------|-----|
-| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 1.08 |
-| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.08 |
-| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.08 |
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 1.06 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.06 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.06 |
 
 Source: [pending first scan], date: [pending first scan]
 
-**Format Edge**: [pending first scan]
+**Format Edge**: Elite in all formats but PPR ceiling is highest due to league-leading volume
 
 ### THE TAKE (EDITORIAL — DO NOT MODIFY)
 [Awaiting editorial input via Cowork channel]
@@ -2947,14 +2947,1345 @@ Source: [pending first scan], date: [pending first scan]
 [No content published yet]
 
 ### AGENT NOTES
-- Initial entry created 2026-03-31 during database setup
-- ADP split between FantasyPros (1.08) and Underdog (1.06) suggests sharp money is higher on Nacua than public consensus
-- Stafford health is the key variable — when healthy, Nacua's volume profile is WR1 overall
-- Monitor: Rams OL changes in free agency could affect passing game efficiency
+- Finished as WR1 in PPR. Volume floor is elite with 166 targets.
+- Stafford health is the key variable.
+- ADP of 1.04-1.06 reflects consensus top-5 pick.
 
 ### RANKING CHANGE TRIGGERS
 - None currently — baseline entry
 
 ---
 
-<!-- Additional player entries follow the same schema below this line -->
+## Ja'Marr Chase — WR, Cincinnati Bengals
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 1.07 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 1.05 (date: 2026-04-01)
+- **ECR Positional Rank**: WR2 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~30% (2025 season)
+- **Snap Count**: ~93% (2025 season)
+- **Red Zone Targets**: ~20 (2025 season)
+- **Key Stat**: League-high 185 targets — most in NFL. One of only two players with a 50%+ target share in a single game in 2025
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 1.07 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.07 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.07 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR monster — 185 targets and 125 catches give massive floor in reception-heavy formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Best receiver in football per many analysts. Burrow injury history remains concern.
+- Led NFL in targets (185). Tied with St. Brown and Lamb for longest active streak of 100+ catch seasons.
+- 125 receptions and 1,412 yards on 185 targets in 16 games.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Jaxon Smith-Njigba — WR, Seattle Seahawks
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 2.01 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 1.12 (date: 2026-04-01)
+- **ECR Positional Rank**: WR3 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~31% (2025 season)
+- **Snap Count**: ~94% (2025 season)
+- **Red Zone Targets**: ~18 (2025 season)
+- **Key Stat**: Led NFL in receiving yards (1,793) in just his second NFL season — topped 50% target share in multiple games
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 2.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Elite in all formats — high yardage ceiling boosts standard, high volume boosts PPR
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Breakout season — led NFL in receiving yards at age 22. Target share spiked as high as 56.5% in individual games.
+- One of the youngest WR1 finishes in recent memory. Locked in as Seattle's alpha.
+- 119 receptions, 1,793 yards, 10 TDs on 163 targets in 17 games.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Amon-Ra St. Brown — WR, Detroit Lions
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 2.02 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 2.01 (date: 2026-04-01)
+- **ECR Positional Rank**: WR4 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~28% (2025 season)
+- **Snap Count**: ~93% (2025 season)
+- **Red Zone Targets**: ~24 (2025 season)
+- **Key Stat**: Tied for NFL lead in receiving TDs (11) — third consecutive 100+ catch season
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 2.02 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.02 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.02 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — consistent 100+ catch seasons make him one of the safest PPR options in fantasy
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Model of consistency — third straight 100+ catch season. 11 TDs represent a career high.
+- Lions offense remains elite. Tied with CeeDee Lamb and Ja'Marr Chase for longest active 100+ catch streak.
+- 117 receptions, 1,401 yards, 11 TDs on 172 targets in 17 games.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## CeeDee Lamb — WR, Dallas Cowboys
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 2.04 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 2.03 (date: 2026-04-01)
+- **ECR Positional Rank**: WR5 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~25% (2025 season)
+- **Snap Count**: ~89% (2025 season)
+- **Red Zone Targets**: ~12 (2025 season)
+- **Key Stat**: Missed 3 games and TD output (3) was a career low — still cleared 1,000 yards despite the down season
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 2.04 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.04 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.04 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — TD regression likely positive. PPR value capped if target share stays below historical norms
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Down year by his standards — 3 TDs in 14 games is a significant outlier.
+- George Pickens trade creates target competition. Pickens outpaced Lamb by 6 TDs and ~350 yards in 2025.
+- ADP reflects belief in bounce-back but risk is real.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Justin Jefferson — WR, Minnesota Vikings
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 2.05 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 2.04 (date: 2026-04-01)
+- **ECR Positional Rank**: WR6 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~24% (2025 season)
+- **Snap Count**: ~90% (2025 season)
+- **Red Zone Targets**: ~10 (2025 season)
+- **Key Stat**: Sixth consecutive 1,000-yard season — but career-low 2 TDs signal red zone usage decline
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 2.05 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.05 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.05 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Half-PPR — decent volume (84 rec) with yardage upside, but low TDs hurt standard significantly
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Re-entered top-10 WR rankings after offseason trades reshaped the position.
+- 2 TDs is a major outlier — historical average is ~7. Vikings offensive scheme changes may address red zone usage.
+- ADP reflects name value and expected positive regression.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Drake London — WR, Atlanta Falcons
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 2.07 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 2.06 (date: 2026-04-01)
+- **ECR Positional Rank**: WR7 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~22% (2025 season)
+- **Snap Count**: ~88% (2025 season)
+- **Red Zone Targets**: ~16 (2025 season)
+- **Key Stat**: 7 TDs and 16 red zone targets show elite goal-line usage for a young receiver
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 2.07 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.07 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.07 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — TD-dependent floor makes him more valuable in non-PPR formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Solid but unspectacular volume (68 rec) limits PPR ceiling.
+- Red zone efficiency is a strength. Falcons offense has room to grow.
+- Physical profile supports continued red zone dominance.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Nico Collins — WR, Houston Texans
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 2.08 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 2.07 (date: 2026-04-01)
+- **ECR Positional Rank**: WR8 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~23% (2025 season)
+- **Snap Count**: ~87% (2025 season)
+- **Red Zone Targets**: ~14 (2025 season)
+- **Key Stat**: Averaged 79.8 yards per game despite missing 3 games — elite per-game production when healthy
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 2.08 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.08 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.08 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — lower catch volume but high yardage and TD rate boost standard scoring
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Missed 3 games but maintained elite efficiency. Per-game pace projected to 1,350+ yards over 17 games.
+- Health is the primary risk factor. Texans passing game remains high-volume.
+- 71 receptions, 1,117 yards, 6 TDs on 120 targets in 14 games.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Chris Olave — WR, New Orleans Saints
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 2.10 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 2.09 (date: 2026-04-01)
+- **ECR Positional Rank**: WR9 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~26% (2025 season)
+- **Snap Count**: ~91% (2025 season)
+- **Red Zone Targets**: ~18 (2025 season)
+- **Key Stat**: Third 1,000-yard season — bounced back with 9 TDs after prior injury concerns
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 2.10 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.10 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.10 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — 100 catches and 156 targets provide a strong volume floor in all PPR formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Bounce-back season with career-high 9 TDs. 156 targets place him in the elite tier for volume.
+- Saints QB situation worth monitoring for 2026. Travis Etienne arrival should help offensive efficiency.
+- 100 receptions, 1,163 yards, 9 TDs on 156 targets in 17 games.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## George Pickens — WR, Dallas Cowboys
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 2.11 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 2.10 (date: 2026-04-01)
+- **ECR Positional Rank**: WR10 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~26% (2025 season)
+- **Snap Count**: ~90% (2025 season)
+- **Red Zone Targets**: ~17 (2025 season)
+- **Key Stat**: Career-high 93-1,429-9 line in first season with Dallas — outpaced CeeDee Lamb by 6 TDs and ~350 yards
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 2.11 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.11 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.11 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Half-PPR — good catch volume (93) with elite yardage makes half-PPR the sweet spot
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Traded from Pittsburgh to Dallas — broke out as Cowboys' leading receiver. Franchise tagged for 2026, ensuring return.
+- Outproduced Lamb significantly. Physical profile and Dallas system are a strong match.
+- Target competition with Lamb is the main risk.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Malik Nabers — WR, New York Giants
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.01 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 2.12 (date: 2026-04-01)
+- **ECR Positional Rank**: WR11 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~28% (small sample) (2025 season)
+- **Snap Count**: ~91% (pre-injury) (2025 season)
+- **Red Zone Targets**: ~4 (pre-injury) (2025 season)
+- **Key Stat**: 9 catches for 167 yards and 2 TDs in one game before torn ACL in Week 4 — per-game pace was elite
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — projected as a high-volume target in the Giants' passing game when healthy
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- STATUS WATCH — torn ACL in Week 4 (right knee). Expected timeline is 9-12 months, targeting full clearance by training camp 2026.
+- Per-game pace before injury projected to WR5 overall. ADP discount reflects injury risk.
+- Cam Skattebo at RB and Jaxson Dart at QB create a new offensive environment.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Emeka Egbuka — WR, Tampa Bay Buccaneers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.02 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 3.01 (date: 2026-04-01)
+- **ECR Positional Rank**: WR12 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~22% (2025 season)
+- **Snap Count**: ~85% (2025 season)
+- **Red Zone Targets**: ~12 (2025 season)
+- **Key Stat**: NFL Offensive Rookie of the Year finalist — 25-445-5 line in first 5 games before inconsistent second half
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.02 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.02 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.02 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — TD upside and yardage efficiency outweigh lower catch volume for standard scoring
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 19th overall pick in 2025 Draft. Hot start (25-445-5 in first 5 games) followed by cold stretch with league-high 6 drops since Week 6.
+- Mike Evans departure to SF clears target path. With Evans and Godwin gone, Egbuka should see expanded role in 2026.
+- 63 receptions, 938 yards, 6 TDs on 127 targets in 17 games.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## A.J. Brown — WR, Philadelphia Eagles
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.03 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 3.02 (date: 2026-04-01)
+- **ECR Positional Rank**: WR13 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~22% (2025 season)
+- **Snap Count**: ~88% (2025 season)
+- **Red Zone Targets**: ~16 (2025 season)
+- **Key Stat**: Fourth consecutive 1,000-yard season — 7 TDs and 16 red zone targets show sustained elite usage
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.03 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.03 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.03 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — TD production (7) and red zone volume make him more valuable in non-PPR formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Consistent top-end production — 1,000 yards in 4 straight seasons. Shares targets with DeVonta Smith, capping PPR ceiling.
+- Eagles' run-heavy approach limits overall passing volume.
+- Still one of the most physically dominant receivers in the league.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Rashee Rice — WR, Kansas City Chiefs
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.04 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 3.03 (date: 2026-04-01)
+- **ECR Positional Rank**: WR14 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~28% (when active) (2025 season)
+- **Snap Count**: ~89% (when active) (2025 season)
+- **Red Zone Targets**: ~8 (2025 season)
+- **Key Stat**: Averaged 81 receiving yards per game in 2025 — 27.7% target share and 31.2% target rate ranked 4th in NFL when on the field
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.04 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.04 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.04 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — elite target rate projects to massive volume in a full healthy season
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Returned from significant knee injury and served 6-game suspension to start 2025. When active, dominated targets (31.2% target rate, 4th in NFL).
+- Per-game pace projects to ~120 rec and ~1,400 yards over a full season. Health and off-field risk are the discount factors.
+- Mahomes' top target when available.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Tetairoa McMillan — WR, Carolina Panthers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.05 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 3.04 (date: 2026-04-01)
+- **ECR Positional Rank**: WR15 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~26% (2025 season)
+- **Snap Count**: ~88% (2025 season)
+- **Red Zone Targets**: ~15 (2025 season)
+- **Key Stat**: 2025 Offensive Rookie of the Year — only rookie WR to reach 1,000 yards, led all rookies with 27 catches for 369 yards on third/fourth down
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.05 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.05 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.05 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Half-PPR — balanced production (70 rec, 1,014 yds, 7 TD) makes half-PPR ideal
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Won 2025 Offensive Rookie of the Year. Finished WR15 in half-PPR.
+- 640 receiving yards when aligned on left side of formation (5th in NFL).
+- Panthers' passing game should improve in Year 2 with a more established offense.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Garrett Wilson — WR, New York Jets
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.06 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 3.05 (date: 2026-04-01)
+- **ECR Positional Rank**: WR16 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~23% (2025 season)
+- **Snap Count**: ~86% (2025 season)
+- **Red Zone Targets**: ~8 (2025 season)
+- **Key Stat**: Limited to 10 games due to injury — still flashed with 4 TDs despite the shortened season
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.06 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.06 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.06 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — when healthy, Wilson's route-running and target volume project to strong PPR output
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Injury-shortened 2025 season significantly depressed counting stats. Per-game pace was modest even when active.
+- Jets QB situation remains volatile. Talent is undeniable but consistency has been an issue.
+- ADP reflects faith in a bounce-back but carries meaningful risk.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Tee Higgins — WR, Cincinnati Bengals
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.07 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 3.06 (date: 2026-04-01)
+- **ECR Positional Rank**: WR17 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~17% (2025 season)
+- **Snap Count**: ~84% (2025 season)
+- **Red Zone Targets**: ~20 (2025 season)
+- **Key Stat**: Career-high 11 TDs — first Pro Bowl selection despite being WR2 behind Ja'Marr Chase
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.07 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.07 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.07 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — 11 TDs on moderate volume makes him significantly more valuable in TD-heavy formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Career year for TDs despite playing second fiddle to Chase. Red zone efficiency was elite (11 TDs on ~95 targets).
+- First Pro Bowl nod. Bengals offense supported two elite fantasy WRs.
+- Free agent status for 2026 worth monitoring — landing spot could dramatically change value.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Zay Flowers — WR, Baltimore Ravens
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.08 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 3.07 (date: 2026-04-01)
+- **ECR Positional Rank**: WR18 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~22% (2025 season)
+- **Snap Count**: ~89% (2025 season)
+- **Red Zone Targets**: ~10 (2025 season)
+- **Key Stat**: 1,211 receiving yards — established himself as a legitimate 1,000-yard receiver in the Ravens' run-first scheme
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.08 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.08 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.08 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Half-PPR — solid volume (86 rec) and yardage upside, but low TDs (5) hurt standard scoring
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Elite yardage production despite Ravens' run-heavy approach. 5 TDs is low relative to his target volume — positive regression candidate.
+- Lamar Jackson connection continues to develop. Career-best game came in Week 8.
+- Ravens' offensive identity limits overall ceiling.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Davante Adams — WR, Los Angeles Rams
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.09 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 3.08 (date: 2026-04-01)
+- **ECR Positional Rank**: WR19 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~18% (2025 season)
+- **Snap Count**: ~82% (2025 season)
+- **Red Zone Targets**: ~26 (2025 season)
+- **Key Stat**: NFL-high 14 receiving TDs — first player in league history to lead NFL in TD receptions with three different teams (Packers 2020, Raiders 2022, Rams 2025)
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.09 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.09 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.09 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — massive TD production (14) makes him a standard scoring monster, significantly less valuable in PPR
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Historic TD season but volume (60 rec, 789 yds) is concerning.
+- Now teammates with Puka Nacua on Rams — target competition is a real concern.
+- Age 33 entering 2026 season. Red zone usage (26 targets) was absurd but may decline sharing targets with Nacua.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Terry McLaurin — WR, Washington Commanders
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.10 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 3.09 (date: 2026-04-01)
+- **ECR Positional Rank**: WR20 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~24% (2025 season)
+- **Snap Count**: ~90% (2025 season)
+- **Red Zone Targets**: ~22 (2025 season)
+- **Key Stat**: Career-high 13 TDs — thrived with Jayden Daniels in the Commanders' ascending offense
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.10 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.10 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.10 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — 13 TDs provide huge standard scoring upside, with enough volume to be viable in PPR
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Career year with Jayden Daniels at QB. 13 TDs represent significant positive regression from prior seasons.
+- Commanders offense trending up. Volume (82 rec, 130 targets) is solid but not elite.
+- Age 30 entering 2026 — ADP may not fully price in the ceiling.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Luther Burden III — WR, Chicago Bears
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 4.01 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 3.10 (date: 2026-04-01)
+- **ECR Positional Rank**: WR21 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~26% (target rate) (2025 season)
+- **Snap Count**: ~41% (route share) (2025 season)
+- **Red Zone Targets**: ~6 (2025 season)
+- **Key Stat**: Team-high 26.1% target rate and 2.83 yards per route run (4th among qualified WRs) despite just 41% route share
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 4.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — if route share expands, target rate suggests massive PPR breakout potential
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Top-20 breakout candidate per multiple analysts. DJ Moore trade to Buffalo clears target path significantly.
+- 26.1% target rate on limited snaps projects to elite volume if route share increases. 2.83 yards per route run is an efficiency metric that screams expanded role.
+- ADP reflects the upside bet.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Rome Odunze — WR, Chicago Bears
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 4.02 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 4.01 (date: 2026-04-01)
+- **ECR Positional Rank**: WR22 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~20% (2025 season)
+- **Snap Count**: ~80% (2025 season)
+- **Red Zone Targets**: ~10 (2025 season)
+- **Key Stat**: 6 TDs in 12 games show strong red zone efficiency — missed 5 games but maintained solid per-game production
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 4.02 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.02 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.02 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — TD efficiency and lower catch volume favor standard scoring
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- DJ Moore trade to Buffalo opens significant opportunity for Odunze and Burden III in 2026.
+- Missed 5 games in 2025 due to injury. Per-game pace projected to ~63 rec, 937 yds, 8.5 TDs over 17 games.
+- Bears offense expected to take a step forward.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## D.J. Moore — WR, Buffalo Bills
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 4.03 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 4.02 (date: 2026-04-01)
+- **ECR Positional Rank**: WR23 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~18% (2025 season)
+- **Snap Count**: ~82% (2025 season)
+- **Red Zone Targets**: ~10 (2025 season)
+- **Key Stat**: Career-low 682 yards with Bears — traded to Buffalo where he reunites with OC Joe Brady, who coached him to 1,193 yards in 2020
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 4.03 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.03 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.03 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — Josh Allen's volume and Brady's scheme project more targets than Moore saw in Chicago
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Traded from Bears to Bills for 2026 second-round pick. Reunites with Joe Brady, under whom he had his most productive season (1,193 yds in 2020).
+- Josh Allen gives him a significant QB upgrade.
+- Projected as WR3 with WR2 upside in Buffalo.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Ladd McConkey — WR, Los Angeles Chargers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 4.04 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 4.03 (date: 2026-04-01)
+- **ECR Positional Rank**: WR24 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~20% (2025 season)
+- **Snap Count**: ~85% (2025 season)
+- **Red Zone Targets**: ~10 (2025 season)
+- **Key Stat**: Solid sophomore season — 66 catches and 6 TDs as the Chargers' WR1 in a run-first system
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 4.04 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.04 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.04 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Half-PPR — moderate volume and TDs make half-PPR the best format
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Chargers' run-heavy offensive approach caps passing volume ceiling. Still the clear WR1 in the offense.
+- Justin Herbert connection should continue to develop.
+- Omarion Hampton arrival at RB may further suppress passing volume.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## DeVonta Smith — WR, Philadelphia Eagles
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 4.05 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 4.04 (date: 2026-04-01)
+- **ECR Positional Rank**: WR25 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~20% (2025 season)
+- **Snap Count**: ~87% (2025 season)
+- **Red Zone Targets**: ~10 (2025 season)
+- **Key Stat**: Fourth consecutive season above 900 receiving yards — model of consistency but TD output (4) remains suppressed
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 4.05 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.05 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.05 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Half-PPR — enough volume (77 rec) to be relevant in PPR formats but low TDs limit standard value
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Shares targets with A.J. Brown, limiting overall ceiling. Eagles' run-first offense suppresses passing volume.
+- 4 TDs in 16 games is a concern — only 10 red zone targets.
+- Consistent floor but limited ceiling. Very safe WR3 in most formats.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Mike Evans — WR, San Francisco 49ers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 4.06 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 4.05 (date: 2026-04-01)
+- **ECR Positional Rank**: WR26 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~22% (when active) (2025 season)
+- **Snap Count**: ~85% (when active) (2025 season)
+- **Red Zone Targets**: ~6 (2025 season)
+- **Key Stat**: Career-low production (30 rec, 368 yds) after missing 9 games — but prior to 2025 had 11 consecutive 1,000-yard seasons
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 4.06 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.06 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.06 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — elite red zone history makes him TD-dependent and more valuable in standard scoring
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Signed 3-year, $42.4M deal with 49ers after 12 years in Tampa Bay. Missed 9 games in 2025 with concussion and collarbone injury.
+- Age 32 entering 2026. Brock Purdy and Kyle Shanahan system could revitalize production.
+- Health is the primary risk factor — 11 straight 1,000-yard seasons before 2025 collapse.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Alec Pierce — WR, Indianapolis Colts
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 4.07 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 4.06 (date: 2026-04-01)
+- **ECR Positional Rank**: WR27 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~18% (2025 season)
+- **Snap Count**: ~82% (2025 season)
+- **Red Zone Targets**: ~12 (2025 season)
+- **Key Stat**: Fewest receptions (47) to reach 1,000 yards since DeSean Jackson in 2010 — deep-ball specialist with elite yards per reception (21.3)
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 4.07 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.07 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.07 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — low volume (47 rec) kills PPR value, but big-play ability and TDs boost standard scoring
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Re-signed on 4-year, $114M deal. Deep-ball specialist profile limits weekly floor.
+- 21.3 yards per reception is elite but volatile. Best ball darling — spike weeks are among the best at the position.
+- Risky in managed leagues, valuable in best ball.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Jaylen Waddle — WR, Denver Broncos
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 4.08 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 4.07 (date: 2026-04-01)
+- **ECR Positional Rank**: WR28 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~20% (2025 season)
+- **Snap Count**: ~84% (2025 season)
+- **Red Zone Targets**: ~10 (2025 season)
+- **Key Stat**: Traded to Denver in blockbuster deal (Dolphins received first-round pick) — joins a 14-win Broncos team
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 4.08 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.08 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.08 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — slot-friendly profile projects to high-volume role in Denver's passing game
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Traded from Dolphins to Broncos for 2026 first-, third-, and fourth-round picks. Joins a team that won 14 games and reached the postseason.
+- Expected to be at worst the 1A receiver in Denver. Bo Nix connection is the unknown.
+- Target competition with Courtland Sutton, but Waddle's arrival likely pushes Sutton to WR2 role.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Jameson Williams — WR, Detroit Lions
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 4.09 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 4.08 (date: 2026-04-01)
+- **ECR Positional Rank**: WR29 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~18% (2025 season)
+- **Snap Count**: ~80% (2025 season)
+- **Red Zone Targets**: ~12 (2025 season)
+- **Key Stat**: 1,117 receiving yards as Detroit's WR2 behind Amon-Ra St. Brown — 17.2 yards per catch shows elite deep-ball ability
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 4.09 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.09 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.09 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — lower volume (65 rec) but high yardage and TDs favor non-PPR formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Breakout season as Lions' WR2 alongside St. Brown. Deep-ball ability (17.2 yds/rec) makes him a big-play threat.
+- Lions' elite offense supports multiple fantasy-relevant pass catchers.
+- Target share capped by St. Brown's dominance but efficiency is elite.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## DK Metcalf — WR, Pittsburgh Steelers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 4.10 (source: FantasyPros, date: 2026-04-01)
+- **Underdog ADP**: 4.09 (date: 2026-04-01)
+- **ECR Positional Rank**: WR30 of WR (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~20% (2025 season)
+- **Snap Count**: ~85% (2025 season)
+- **Red Zone Targets**: ~12 (2025 season)
+- **Key Stat**: Worst statistical season of his career (59 rec, 850 yds) in first year with Pittsburgh after trade from Seattle
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 4.10 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.10 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.10 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — physical profile and TD potential make him more valuable in standard scoring
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Traded from Seattle to Pittsburgh for 2025 second-round pick. Career-low production in first year with Steelers.
+- Now rumored as trade candidate for 2026. Locked into massive contract. QB play in Pittsburgh was a limiting factor.
+- Physical ceiling remains elite if paired with better quarterback situation.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
