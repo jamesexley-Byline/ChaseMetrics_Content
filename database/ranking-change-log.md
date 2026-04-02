@@ -37,3 +37,33 @@
 | 2026-04-01 08:00 | Geno Smith | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
 | 2026-04-01 08:00 | Jacoby Brissett | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
 | 2026-04-01 08:00 | Tua Tagovailoa | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Bijan Robinson | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Jahmyr Gibbs | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Christian McCaffrey | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Jonathan Taylor | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | De'Von Achane | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | James Cook | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Ashton Jeanty | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Saquon Barkley | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Josh Jacobs | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Derrick Henry | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Omarion Hampton | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Chase Brown | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Kenneth Walker III | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Breece Hall | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Javonte Williams | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Kyren Williams | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Bucky Irving | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Cam Skattebo | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Quinshon Judkins | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Travis Etienne Jr. | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Chuba Hubbard | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | TreVeyon Henderson | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | D'Andre Swift | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Bhayshul Tuten | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Tony Pollard | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | J.K. Dobbins | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | David Montgomery | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Aaron Jones | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | James Conner | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-01 08:00 | Rhamondre Stevenson | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |

@@ -1465,6 +1465,1449 @@ Source: [pending first scan], date: 2026-04-01
 
 ---
 
+<!-- ==================== RUNNING BACKS ==================== -->
+
+## Bijan Robinson — RB, Atlanta Falcons
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 1.01 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 1.01 (date: 2026-04-01)
+- **ECR Positional Rank**: RB1 of RB (source: ESPN/FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: 287 / 1,478 (2025 season)
+- **Rushing TDs**: 7 (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Elite efficiency — 1,478 yards on just 287 carries (5.2 YPC) with massive receiving upside
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 1.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.01 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: PPR boosts value — elite pass-catching RB with significant receiving workload
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Consensus 1.01 overall pick — safest player in fantasy drafts
+- Only 7 rushing TDs in 2025 despite massive yardage — TD regression upward expected
+- Top-4 fantasy RB finish in each of past 2 seasons
+- Monitor: Falcons offensive changes, Tua Tagovailoa arrival could boost passing game
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Jahmyr Gibbs — RB, Detroit Lions
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 1.02 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 1.02 (date: 2026-04-01)
+- **ECR Positional Rank**: RB2 of RB (source: ESPN/FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: 243 / 1,223 (2025 season)
+- **Rushing TDs**: 13 (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: 13 rushing TDs with 1,223 yards on only 243 carries — hyper-efficient in Detroit's elite offence
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 1.02 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.02 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.02 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: PPR significantly boosts value — elite pass-catching back with high reception volume
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Top-4 fantasy RB in each of past 2 seasons — locked into elite Lions offence
+- Excellent pass-catcher — dual-threat profile drives PPR value
+- 5.0 YPC on 243 carries — efficiency is elite
+- Monitor: David Montgomery sharing backfield touches, Lions OC continuity
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Christian McCaffrey — RB, San Francisco 49ers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 1.07 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 1.07 (date: 2026-04-01)
+- **ECR Positional Rank**: RB3 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: 311 / 1,202 (2025 season)
+- **Rushing TDs**: 10 (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Returned from injury to post 1,202 rush yards and 10 TDs across full 17-game season — proved durability
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 1.07 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.07 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.07 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: PPR elite — historically one of the highest-receiving RBs in the league
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Full 17-game season in 2025 after injury concerns — health is the key variable
+- Age 30 in 2026 — entering the twilight of elite RB production window
+- 49ers added Mike Evans — could affect target share in passing game
+- Monitor: CMC workload management, any preseason injury flags, age-related decline
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Jonathan Taylor — RB, Indianapolis Colts
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 1.07 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 1.07 (date: 2026-04-01)
+- **ECR Positional Rank**: RB4 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: 323 / 1,585 (2025 season)
+- **Rushing TDs**: 18 (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: 18 rushing TDs led all RBs — massive TD volume in Daniel Jones-led offence
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 1.07 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.07 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.07 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: Standard favours slightly — value is heavily TD-dependent with lower reception volume
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- League-leading 18 rushing TDs in 2025 — elite goal-line back
+- 323 carries is massive volume — workhorse role locked in
+- Daniel Jones' career revival in Indy provides stable offence
+- Monitor: Taylor workload management, any signs of wear from 323-carry season
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## De'Von Achane — RB, Miami Dolphins
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 2.01 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 2.01 (date: 2026-04-01)
+- **ECR Positional Rank**: RB5 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: 238 / 1,350 (2025 season — 16 games)
+- **Rushing TDs**: 8 (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: 1,350 yards on only 238 carries (5.7 YPC) in 16 games — explosive efficiency with big-play ability
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 2.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.01 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: PPR boosts value — pass-catching ability in McDaniel's scheme (now departed) adds PPR upside
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Elite efficiency: 5.7 YPC on 238 carries across 16 games
+- Malik Willis signed as new QB — scheme change could affect Achane's role
+- Mike McDaniel departed — new coaching staff impact on Achane's usage TBD
+- Monitor: New MIA offensive scheme, Willis-Achane dynamic, preseason workload
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## James Cook — RB, Buffalo Bills
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 1.11 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 1.11 (date: 2026-04-01)
+- **ECR Positional Rank**: RB6 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: 309 / 1,621 (2025 season)
+- **Rushing TDs**: 12 (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Led all RBs with 1,621 rushing yards in 2025 — emerged as a true workhorse in Josh Allen's offence
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 1.11 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.11 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.11 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: Half-PPR optimal — solid receiving work supplements elite rushing volume
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- NFL rushing leader in 2025 with 1,621 yards — breakout season
+- Bills added DJ Moore — could reduce Cook's receiving work but improve overall offence
+- Josh Allen at QB ensures elite offensive environment
+- Monitor: Ray Davis backup role, Cook's receiving target share with Moore addition
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Ashton Jeanty — RB, Las Vegas Raiders
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 1.12 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 1.12 (date: 2026-04-01)
+- **ECR Positional Rank**: RB7 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: 266 / 975 (2025 season — 17 games)
+- **Rushing TDs**: 5 (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] / [pending first scan] — 5 receiving TDs (2025 season)
+- **Key Stat**: Led all rookies in rushing yards (975) and scrimmage yards (1,321) — 10 total TDs despite poor Raiders OL
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 1.12 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.12 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 1.12 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: PPR boosts value — 5 receiving TDs as rookie shows pass-catching upside
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- 2025 NFL Draft: 6th overall pick by Raiders from Boise State
+- Rookie year hampered by poor OL and Raiders playing from behind
+- 10 total TDs (5 rush, 5 rec) showed dual-threat ability
+- Year 2 leap candidate — if Raiders improve OL, production should surge
+- Monitor: Raiders OL upgrades, offensive coordinator stability, Jeanty workload
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Saquon Barkley — RB, Philadelphia Eagles
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 2.04 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 2.04 (date: 2026-04-01)
+- **ECR Positional Rank**: RB8 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: 280 / 1,140 (2025 season — 16 games)
+- **Rushing TDs**: 7 (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: 1,140 yards in 16 games — solid but down from 2024 peak; still a locked-in RB1 in Philly's run-heavy scheme
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 2.04 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.04 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.04 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: Half-PPR optimal — receives enough targets to benefit but value is rushing-dependent
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Down from 2024 peak but still 1,140 yards and 7 TDs in 16 games
+- Age 29 in 2026 — decline phase approaching for RBs
+- Eagles' run-heavy scheme protects floor
+- Monitor: Barkley workload, Kenneth Gainwell role, age-related decline signs
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Josh Jacobs — RB, Green Bay Packers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.03 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 3.03 (date: 2026-04-01)
+- **ECR Positional Rank**: RB9 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Established workhorse in Green Bay — Jordan Love's development boosts overall offensive efficiency
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.03 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.03 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.03 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: Standard favours slightly — primary value is rushing volume and TDs
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Full 2025 stats pending — need to pull detailed season data
+- Packers offence improving with Jordan Love — positive game script for RB
+- Monitor: Jacobs workload, MarShawn Lloyd backup role, Packers offensive efficiency
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Derrick Henry — RB, Baltimore Ravens
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 2.09 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 2.09 (date: 2026-04-01)
+- **ECR Positional Rank**: RB10 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: 307 / 1,595 (2025 season)
+- **Rushing TDs**: 16 (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: 1,595 rushing yards and 16 TDs at age 31 — defying the aging curve in Baltimore's run-first scheme
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 2.09 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.09 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.09 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: Standard strongly favours — minimal receiving work, value is entirely rushing volume and TDs
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Age 32 in 2026 — remarkable production but cliff is coming
+- 1,595 yds and 16 TDs is elite, but 307 carries is heavy wear
+- Baltimore's run scheme with Lamar Jackson is ideal for Henry
+- Monitor: Any signs of decline, preseason workload, Justice Hill backup role
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Omarion Hampton — RB, Los Angeles Chargers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 2.03 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 2.03 (date: 2026-04-01)
+- **ECR Positional Rank**: RB11 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: 124 / 545 (2025 season — 9 games)
+- **Rushing TDs**: 4 (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] — 737 scrimmage yds, 5 total TD (2025 season)
+- **Key Stat**: Injury limited to 9 games — but 737 scrimmage yards and 5 TDs in limited action showed the talent
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 2.03 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.03 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.03 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: [pending first scan — need reception data]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- 2025 NFL Draft: 22nd overall pick by Chargers from North Carolina
+- Injury-marred rookie season — only 9 of 17 games played
+- Mike McDaniel now HC in LAC — his scheme historically maximises RB value
+- Year 2 leap candidate if healthy — Underdog ADP (2.03) reflects massive upside bet
+- Monitor: Hampton health clearance, McDaniel scheme installation, Chargers OL
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Chase Brown — RB, Cincinnati Bengals
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 2.10 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 2.10 (date: 2026-04-01)
+- **ECR Positional Rank**: RB12 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Emerged as Bengals' lead back — benefits from Joe Burrow's offence keeping defences honest
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 2.10 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.10 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.10 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: [pending first scan — need reception data]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Full 2025 stats pending — need to pull detailed season data
+- Bengals lead back with Burrow at QB — positive game script environment
+- Monitor: Bengals backfield committee, Brown's receiving role, Zack Moss competition
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Kenneth Walker III — RB, Kansas City Chiefs
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 2.08 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 2.08 (date: 2026-04-01)
+- **ECR Positional Rank**: RB13 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Moved to Kansas City — Mahomes-led offence provides elite scoring environment if ACL recovery goes well
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 2.08 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.08 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 2.08 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: Standard favours slightly — Walker is primarily a between-the-tackles runner
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Traded/signed to Kansas City Chiefs (previously Seattle)
+- KC offence with Mahomes provides positive game scripts
+- Full 2025 stats pending — need to pull detailed season data
+- Monitor: Mahomes ACL return timeline, Walker's role in KC, Isiah Pacheco status
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Breece Hall — RB, New York Jets
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.08 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 3.08 (date: 2026-04-01)
+- **ECR Positional Rank**: RB14 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Dual-threat back with strong receiving profile — Geno Smith arrival could improve passing game involvement
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.08 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.08 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.08 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: PPR boosts value — historically strong receiving back with 50+ catches per season
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Full 2025 stats pending — need to pull detailed season data
+- Geno Smith signed by Jets — could boost Hall's receiving involvement
+- Braelon Allen backup limits ceiling but Hall remains the lead back
+- Monitor: Jets offensive changes, Hall's target share, Braelon Allen workload split
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Javonte Williams — RB, Dallas Cowboys
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 4.04 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 4.04 (date: 2026-04-01)
+- **ECR Positional Rank**: RB15 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: 252 / 1,201 (2025 season — 16 games)
+- **Rushing TDs**: 11 (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Career-best 1,201 rushing yards and 11 TDs in new home with Dallas — fully healthy after ACL recovery
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 4.04 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.04 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.04 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: Half-PPR optimal — decent receiving work supplements strong rushing volume
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Moved to Dallas (previously Denver) — breakout 2025 with 1,201 yds, 11 TD
+- Finally healthy after ACL recovery — showed pre-injury explosiveness
+- Dak Prescott at QB provides solid offensive environment
+- Monitor: Cowboys backfield competition, Williams' pass-catching role
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Kyren Williams — RB, Los Angeles Rams
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.10 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 3.10 (date: 2026-04-01)
+- **ECR Positional Rank**: RB16 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: 259 / 1,252 (2025 season)
+- **Rushing TDs**: 10 (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: 1,252 rushing yards with 10 TDs — consistent RB1 production in Stafford-led offence
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.10 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.10 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.10 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: Half-PPR optimal — solid receiving back in Rams offence
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Steady 2025: 1,252 yds, 10 TD on 259 carries
+- Rams pass-heavy offence with Stafford (46 TDs) creates positive game scripts
+- Puka Nacua's presence keeps defences honest against the run
+- Monitor: Rams backfield additions, Williams' pass-catching role, Stafford age risk
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Bucky Irving — RB, Tampa Bay Buccaneers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.12 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 3.12 (date: 2026-04-01)
+- **ECR Positional Rank**: RB17 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Emerged as Tampa Bay's lead back — dynamic runner in the Bucs' pass-heavy offence
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.12 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.12 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.12 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: [pending first scan — need reception data]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Full 2025 stats pending — need to pull detailed season data
+- Tampa Bay lead back in Baker Mayfield offence
+- Mike Evans departed to SF — Bucs may lean more on run game in 2026
+- Monitor: Bucs backfield committee, Irving's pass-catching development, Rachaad White role
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Cam Skattebo — RB, New York Giants
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 5.09 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 5.09 (date: 2026-04-01)
+- **ECR Positional Rank**: RB18 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Physical runner paired with Jaxson Dart in Giants' rebuilt offence
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 5.09 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.09 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.09 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: [pending first scan — need reception data]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Arizona State product — physical downhill runner
+- Paired with Jaxson Dart (rushing QB) in Giants offence — positive rushing environment
+- Full 2025 stats pending — need to determine draft year and season data
+- Monitor: Giants offensive development, Skattebo's role certainty, Tyrone Tracy competition
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Quinshon Judkins — RB, Cleveland Browns
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 5.05 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 5.05 (date: 2026-04-01)
+- **ECR Positional Rank**: RB19 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Young back in Cleveland — upside tied to QB situation and offensive improvement
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 5.05 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.05 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.05 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: [pending first scan — need reception data]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Full 2025 stats pending — need to pull detailed season data
+- Cleveland offence is a concern — Watson/Sanders QB situation limits ceiling
+- Monitor: Browns QB situation, Judkins' workload, offensive line quality
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Travis Etienne Jr. — RB, New Orleans Saints
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.07 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 3.07 (date: 2026-04-01)
+- **ECR Positional Rank**: RB20 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Moved to New Orleans — Tyler Shough's improvement and Alvin Kamara's aging create path to lead role
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.07 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.07 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.07 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: PPR boosts value — Etienne has strong pass-catching ability from Clemson/JAX days
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Signed with New Orleans Saints (previously Jacksonville)
+- Note: Underdog ADP (3.07) much higher than ESPN ECR (RB20) — significant divergence
+- Alvin Kamara still on roster — backfield split could limit volume
+- Monitor: Saints backfield committee, Etienne vs Kamara roles, Shough development
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Chuba Hubbard — RB, Carolina Panthers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending first scan] (source: [pending], date: 2026-04-01)
+- **Underdog ADP**: [pending first scan] (date: 2026-04-01)
+- **ECR Positional Rank**: RB21 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Carolina's lead back — Bryce Young's improvement in 2025 helps overall offensive environment
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | [pending first scan] |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | [pending first scan] |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | [pending first scan] |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: [pending first scan]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Full 2025 stats and ADP pending — need to pull detailed data
+- Panthers RB1 with Bryce Young improving at QB
+- Monitor: Panthers offensive additions, Hubbard's workload, backfield competition
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## TreVeyon Henderson — RB, New England Patriots
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 5.01 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 5.01 (date: 2026-04-01)
+- **ECR Positional Rank**: RB22 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Ohio State product with explosive speed — paired with Drake Maye in New England's improving offence
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 5.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.01 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: [pending first scan — need reception data]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Ohio State product — explosive speed and big-play ability
+- Drake Maye's breakout helps overall NE offensive environment
+- Full 2025 stats pending — need to determine draft year and pull data
+- Note: Rhamondre Stevenson also on NE roster — backfield split possible
+- Monitor: NE backfield roles, Henderson's pass-catching development
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## D'Andre Swift — RB, Chicago Bears
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 5.12 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 5.12 (date: 2026-04-01)
+- **ECR Positional Rank**: RB23 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Pass-catching back in Caleb Williams offence — PPR upside if receiving role holds
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 5.12 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.12 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.12 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: PPR boosts value — Swift has been a strong pass-catching back throughout career
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Full 2025 stats pending — need to pull detailed season data
+- Bears offence with Caleb Williams improving — positive environment
+- Monitor: Bears backfield committee, Swift's durability, receiving role
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Bhayshul Tuten — RB, Jacksonville Jaguars
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 5.11 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 5.11 (date: 2026-04-01)
+- **ECR Positional Rank**: RB24 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Explosive runner in Jacksonville — Etienne's departure opens the door to lead-back role
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 5.11 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.11 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.11 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: [pending first scan — need reception data]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Full 2025 stats pending — need to pull detailed season data
+- Travis Etienne departed to Saints — Tuten in line for expanded role
+- Trevor Lawrence at QB provides solid offensive environment
+- Monitor: Jaguars backfield depth chart, Tuten's receiving ability
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Tony Pollard — RB, Tennessee Titans
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 9.07 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 9.07 (date: 2026-04-01)
+- **ECR Positional Rank**: RB25 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Titans lead back with Cam Ward at QB — scheme and passing game improvement could boost RB value
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 9.07 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 9.07 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 9.07 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: PPR boosts value — Pollard has pass-catching ability from Dallas days
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Full 2025 stats pending — need to pull detailed season data
+- Tyjae Spears also in TEN backfield — committee risk
+- Cam Ward's Year 2 development could help game scripts
+- Monitor: Titans backfield split, Pollard's receiving role, Ward improvement
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## J.K. Dobbins — RB, Denver Broncos
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 9.09 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 9.09 (date: 2026-04-01)
+- **ECR Positional Rank**: RB26 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Moved to Denver — Sean Payton's run scheme and Bo Nix at QB provide solid environment
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 9.09 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 9.09 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 9.09 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: Standard favours — Dobbins is primarily a rushing-volume back
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Moved to Denver (previously LAC) — new team, new scheme
+- Sean Payton historically features a lead back — positive for Dobbins
+- Full 2025 stats pending — need to pull detailed season data
+- Note: RJ Harvey also in DEN backfield per Underdog ADP
+- Monitor: Broncos backfield competition, Dobbins durability, Payton's usage patterns
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## David Montgomery — RB, Houston Texans
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 5.11 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 5.11 (date: 2026-04-01)
+- **ECR Positional Rank**: RB27 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Moved to Houston — C.J. Stroud at QB and DeMeco Ryans' offence provide solid game scripts
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 5.11 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.11 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.11 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: Standard favours slightly — Montgomery is a between-the-tackles grinder
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Moved to Houston (previously Detroit) — new team
+- Full 2025 stats pending — need to pull detailed season data
+- Houston offence has weapons — should provide positive game scripts
+- Monitor: Texans backfield depth, Montgomery's goal-line role
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Aaron Jones — RB, Minnesota Vikings
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 12.08 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 12.08 (date: 2026-04-01)
+- **ECR Positional Rank**: RB28 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Veteran back in Minnesota — Kyler Murray's arrival could improve overall offensive production
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 12.08 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 12.08 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 12.08 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: PPR boosts value — Jones has been a strong receiving back throughout career
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Full 2025 stats pending — need to pull detailed season data
+- Age 31 in 2026 — declining phase for RBs
+- Kyler Murray signed as QB — if healthy, improves MIN offence significantly
+- Jordan Mason also on MIN roster per Underdog data — committee risk
+- Monitor: Vikings backfield roles, Murray health, Jones age-related decline
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## James Conner — RB, Arizona Cardinals
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: 14.04 (source: Underdog, date: 2026-04-01)
+- **Underdog ADP**: 14.04 (date: 2026-04-01)
+- **ECR Positional Rank**: RB29 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Veteran workhorse in Arizona — Trey Benson backup limits ceiling but Conner remains the goal-line back
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 14.04 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.04 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.04 |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: Standard favours — Conner is a TD-dependent, between-the-tackles runner
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Full 2025 stats pending — need to pull detailed season data
+- Age 31 in 2026 — late-career veteran
+- Trey Benson breathing down his neck for touches
+- Jacoby Brissett at QB limits offence ceiling
+- Monitor: Cardinals backfield battle, Conner's durability, Benson's emergence
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Rhamondre Stevenson — RB, New England Patriots
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-01 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending first scan] (source: [pending], date: 2026-04-01)
+- **Underdog ADP**: [pending first scan] (date: 2026-04-01)
+- **ECR Positional Rank**: RB30 of RB (source: ESPN)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rushing Attempts / Yards**: [pending first scan] (2025 season)
+- **Rushing TDs**: [pending first scan] (2025 season)
+- **Receptions / Receiving Yards**: [pending first scan] (2025 season)
+- **Key Stat**: Patriots' veteran back — Drake Maye's breakout improves NE offensive environment but TreVeyon Henderson competition looms
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | [pending first scan] |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | [pending first scan] |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | [pending first scan] |
+
+Source: [pending first scan], date: 2026-04-01
+
+**Format Edge**: [pending first scan]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Initial entry created 2026-04-01 during database population
+- Full 2025 stats and ADP pending — need to pull detailed data
+- TreVeyon Henderson also on NE roster — significant committee risk
+- Drake Maye's 2025 breakout helps overall NE offensive outlook
+- Monitor: NE backfield pecking order, Stevenson's role certainty vs Henderson
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
 <!-- ==================== WIDE RECEIVERS ==================== -->
 
 ## Puka Nacua — WR, Los Angeles Rams
