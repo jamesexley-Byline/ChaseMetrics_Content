@@ -157,3 +157,33 @@
 | 2026-04-02 08:00 | Graham Gano | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
 | 2026-04-02 08:00 | Daniel Carlson | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
 | 2026-04-02 08:00 | Matt Gay | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-03 08:00 | Jeremiyah Love | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Carnell Tate | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Makai Lemon | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Jordyn Tyson | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Denzel Boston | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Kenyon Sadiq | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | KC Concepcion | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Omar Cooper Jr. | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Fernando Mendoza | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Jadarian Price | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Jonah Coleman | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Mike Washington Jr. | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Chris Brazzell II | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Germie Bernard | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Malachi Fields | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Zachariah Branch | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Eli Stowers | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Elijah Sarratt | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Nicholas Singleton | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Emmett Johnson | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Max Klare | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Chris Bell | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Skyler Bell | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Antonio Williams | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Michael Trigg | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Kaytron Allen | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Ja'Kobi Lane | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Ty Simpson | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Deion Burks | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |
+| 2026-04-03 08:00 | Ted Hurst | [NEW ENTRY] | — | Initial entry (pre-draft) | Database population — 2026 rookies | ESPN, FantasyPros |

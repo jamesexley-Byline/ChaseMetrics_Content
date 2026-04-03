@@ -7023,3 +7023,1355 @@ Source: [pending first scan], date: [pending first scan]
 - None currently — baseline entry
 
 ---
+
+<!-- ==================== ROOKIES (2026 NFL DRAFT CLASS) ==================== -->
+
+## Jeremiyah Love — RB, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 1 (source: ESPN/FantasyPros)
+- **College Stats**: Notre Dame — led class in yards per carry (6.66) and yards after contact (4.16). 4.36 forty.
+- **Draft Projection**: Top 10 pick
+- **Key Stat**: Consensus top RB prospect — elite speed (4.36) with best yards per carry (6.66) and YAC (4.16) in the class
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Notre Dame RB, consensus 1.01 in dynasty rookie drafts
+- Unchallenged 1.01 in dynasty rookie drafts. Elite athletic profile. Landing spot will determine Year 1 fantasy value. Projected top-10 pick.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Carnell Tate — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 2 (source: ESPN/FantasyPros)
+- **College Stats**: Ohio State — led WR class in yards per target (13.1); 75% career catch rate
+- **Draft Projection**: Round 1 (top 20)
+- **Key Stat**: Best WR in the class per multiple evaluators — traditional X receiver who wins downfield
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Ohio State WR, traditional outside receiver profile
+- Ohio State product. 13.1 yards per target leads WR class. Projected first-round pick.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Makai Lemon — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 3 (source: ESPN/FantasyPros)
+- **College Stats**: USC — 79-1,156-11 in 2025. Class-best 3.04 YPRR. 1.6% drop rate. Slot alignment on 74% of routes
+- **Draft Projection**: Round 1 (top 20)
+- **Key Stat**: Class-best 3.04 yards per route run — elite slot receiver profile with 79 catches and 11 TDs in 2025
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — USC slot WR, elite route runner
+- Small (5-11, 192) but dominant slot receiver. 74% slot alignment. 1.6% drop rate shows reliable hands. PPR value depends on landing spot.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Jordyn Tyson — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 4 (source: ESPN/FantasyPros)
+- **College Stats**: Arizona State — 158-2,282-22 in 33 career games. 35% target share in 2025
+- **Draft Projection**: Round 1
+- **Key Stat**: 35% target share in 2025 — most dominant college target hog in the class with 158 career catches and 22 TDs
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Arizona State WR, high-volume flanker profile
+- Versatile receiver who projects as 100-catch flanker at NFL peak. Massive college production (2,282 career yards). Top WR3 in dynasty rookie drafts.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Denzel Boston — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 5 (source: ESPN/FantasyPros)
+- **College Stats**: Washington — 45% of team air yards in 2025. Reliable possession receiver profile.
+- **Draft Projection**: Round 1-2
+- **Key Stat**: Commanded 45% of Washington's air yards in 2025 — clear alpha receiver in college offense
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Washington WR, possession receiver with alpha air yard share
+- Possession receiver profile with high air yard share. Reliable hands. Landing spot critical for Year 1 value.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Kenyon Sadiq — TE, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 6 (source: ESPN/FantasyPros)
+- **College Stats**: Oregon — 51-560-8 in 2025. Elite combine: 4.39 forty at 241 lbs
+- **Draft Projection**: Round 1
+- **Key Stat**: 4.39 forty at 241 lbs — freakish athletic testing for a TE with 8 TDs in 2025
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Oregon TE, consensus TE1 in the class
+- Top TE in the 2026 class by consensus. Elite combine performance. Red zone weapon (8 TDs). Only TE likely drafted in Round 1.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## KC Concepcion — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 7 (source: ESPN/FantasyPros)
+- **College Stats**: Texas A&M — highest target share in class (27.2%). Slot specialist.
+- **Draft Projection**: Round 1-2
+- **Key Stat**: 27.2% target share — highest in the entire WR class
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Texas A&M WR, slot specialist with elite target share
+- Slot specialist with elite target share. Texas A&M product. PPR upside if drafted to pass-heavy offense.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Omar Cooper Jr. — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 8 (source: ESPN/FantasyPros)
+- **College Stats**: Indiana — 69-937-13 in 2025. 80% slot alignment.
+- **Draft Projection**: Round 1-2
+- **Key Stat**: 13 touchdowns in 2025 — red zone weapon from the slot with strong hands
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Indiana WR, physical slot receiver
+- Played alongside Heisman winner Fernando Mendoza at Indiana. Physical slot receiver (69-937-13). Possible first-round pick.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Fernando Mendoza — QB, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 9 (source: ESPN/FantasyPros)
+- **College Stats**: Indiana — 41 pass TDs, 90.3 QBR, 7.1% off-target rate, 65-440-7 rushing line in 2025
+- **Draft Projection**: No. 1 overall pick
+- **Key Stat**: Heisman Trophy winner — class-best 41 pass TDs and 90.3 QBR with dual-threat ability (440 rushing yards, 7 rushing TDs)
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Indiana QB, Heisman Trophy winner, consensus No. 1 overall pick
+- Consensus No. 1 overall pick (likely Las Vegas Raiders). Heisman winner with elite accuracy and rushing upside. Year 1 fantasy value depends on supporting cast.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Jadarian Price — RB, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 10 (source: ESPN/FantasyPros)
+- **College Stats**: Notre Dame — 4.13 YAC (2nd in class), 3.6 forced missed tackle rate (3rd). Receiving ability notable.
+- **Draft Projection**: Round 2-3
+- **Key Stat**: 4.13 yards after contact — second-best in class with strong receiving ability for PPR leagues
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Notre Dame RB, receiving-back profile
+- Notre Dame teammate of Jeremiyah Love. Size and breakaway ability. Receiving skill set makes him attractive for PPR. Day 2 draft projection.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Jonah Coleman — RB, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 11 (source: ESPN/FantasyPros)
+- **College Stats**: Washington — 3.4 forced missed tackles per game (best in class)
+- **Draft Projection**: Round 2-3
+- **Key Stat**: Best forced missed tackle rate in the class (3.4) — elite contact balance and power
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Washington RB, physical runner
+- Physical running style. Led class in forced missed tackles. Day 2 draft prospect. Landing spot critical.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Mike Washington Jr. — RB, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 12 (source: ESPN/FantasyPros)
+- **College Stats**: Arkansas — 4.33 forty, 127 speed score
+- **Draft Projection**: Round 2-3
+- **Key Stat**: 4.33 forty and 127 speed score — elite straight-line speed for an RB
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Arkansas RB, elite speed profile
+- Explosive athlete with top-end speed. Arkansas product. Speed profile could make him a home-run threat at NFL level.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Chris Brazzell II — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 13 (source: ESPN/FantasyPros)
+- **College Stats**: Tennessee — 14.2 aDOT. Perimeter specialist.
+- **Draft Projection**: Round 2-3
+- **Key Stat**: 14.2 average depth of target — deep-ball specialist with downfield playmaking ability
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Tennessee WR, perimeter deep-ball specialist
+- Tennessee product. Perimeter receiver profile. Deep-ball ability translates to big-play upside. Less PPR value due to lower volume projection.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Germie Bernard — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 14 (source: ESPN/FantasyPros)
+- **College Stats**: Alabama — 64-862-7 in 2025. 1.7% drop rate.
+- **Draft Projection**: Round 2-3
+- **Key Stat**: 1.7% drop rate — one of the most reliable hands in the class with 64-862-7 at Alabama
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Alabama WR, reliable possession receiver
+- Alabama product with excellent hands. Reliable possession receiver. 7 TDs show red zone ability. Day 2 draft prospect.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Malachi Fields — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 15 (source: ESPN/FantasyPros)
+- **College Stats**: Notre Dame — 6-4, 218 lbs. Vertical target/red zone weapon.
+- **Draft Projection**: Round 2-3
+- **Key Stat**: 6-4, 218 lbs — prototypical big-bodied outside receiver with vertical and red zone upside
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Notre Dame WR, big-bodied outside receiver
+- Notre Dame product. Physical profile screams red zone threat. Standard scoring value due to TD projection. Landing spot determines ceiling.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Zachariah Branch — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 16 (source: ESPN/FantasyPros)
+- **College Stats**: Georgia — 5-8, 177 lbs. 7.9 RAC (run after catch).
+- **Draft Projection**: Round 2-4
+- **Key Stat**: 7.9 RAC — explosive after the catch despite tiny frame (5-8, 177 lbs)
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Georgia WR, undersized slot with elite YAC
+- Undersized slot receiver with electric YAC ability. Georgia product. PPR upside if given volume. Return game adds NFL value. Size limits draft stock.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Eli Stowers — TE, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 17 (source: ESPN/FantasyPros)
+- **College Stats**: Vanderbilt — 2.38 YPRR (tops TE class). 72% slot alignment.
+- **Draft Projection**: Round 2-3
+- **Key Stat**: 2.38 yards per route run — best in TE class with 72% slot alignment showing WR-like route skills
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Vanderbilt TE, move-TE with WR-like route skills
+- Vanderbilt product. TE2 in the class behind Sadiq. Slot-heavy alignment (72%) suggests move-TE role at NFL level. PPR upside.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Elijah Sarratt — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 18 (source: ESPN/FantasyPros)
+- **College Stats**: Indiana — 31 career TDs in 40 games. 2.69 YPRR.
+- **Draft Projection**: Round 2-4
+- **Key Stat**: 31 career touchdowns in 40 games — elite TD rate in college with strong route efficiency (2.69 YPRR)
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Indiana WR, prolific TD scorer
+- Indiana product (alongside Mendoza and Cooper). Prolific TD scorer in college. Standard scoring value. Day 2-3 draft prospect.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Nicholas Singleton — RB, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 19 (source: ESPN/FantasyPros)
+- **College Stats**: Penn State — 3.46 YAC. Versatile three-down back profile.
+- **Draft Projection**: Round 2-4
+- **Key Stat**: Versatile three-down back — 3.46 yards after contact with receiving ability
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Penn State RB, versatile three-down back
+- Penn State product. Versatile skill set. Can contribute in passing game. Day 2-3 draft prospect. Could carve out early role if drafted to right situation.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Emmett Johnson — RB, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 20 (source: ESPN/FantasyPros)
+- **College Stats**: Nebraska — 1,451 rushing yards in 2025 (most in class)
+- **Draft Projection**: Round 2-4
+- **Key Stat**: 1,451 rushing yards in 2025 — led all RBs in the draft class in rushing production
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Nebraska RB, workhorse runner who led class in rushing yards
+- Nebraska product. Led class in rushing yards. Workhorse profile. Volume-based runner whose value depends on landing spot and competition.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Max Klare — TE, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 21 (source: ESPN/FantasyPros)
+- **College Stats**: Ohio State — 43-448-2 in 2025
+- **Draft Projection**: Round 2-4
+- **Key Stat**: Carved out production at Ohio State despite being surrounded by elite WR talent (Carnell Tate, Jeremiah Smith)
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Ohio State TE, TE3 in the class
+- Ohio State product. Strong feel for creating separation. TE3 in the class. Day 2-3 draft prospect. Could develop into starting NFL TE.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Chris Bell — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 22 (source: ESPN/FantasyPros)
+- **College Stats**: Louisville — 222 lbs (heaviest WR in class). Torn ACL in December 2025.
+- **Draft Projection**: Round 2-4
+- **Key Stat**: Heaviest WR in the class at 222 lbs — physical profile but torn ACL in December clouds 2026 outlook
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Louisville WR, physical receiver with ACL injury concern
+- Louisville product. Torn ACL in December 2025 — may miss early part of 2026 season. Physical receiver when healthy. Injury discount in dynasty drafts.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Skyler Bell — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 23 (source: ESPN/FantasyPros)
+- **College Stats**: UConn — 1,278 receiving yards in 2025 (most in WR class)
+- **Draft Projection**: Round 3-5
+- **Key Stat**: 1,278 receiving yards in 2025 — led all WRs in the draft class in yardage production
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — UConn WR, led class in receiving yards
+- UConn product — small school raises questions about competition level. Led class in receiving yards. Day 2-3 draft prospect. Value depends on NFL opportunity.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Antonio Williams — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 24 (source: ESPN/FantasyPros)
+- **College Stats**: Clemson — 208 career catches. 75% slot rate.
+- **Draft Projection**: Round 3-5
+- **Key Stat**: 208 career catches — one of the most productive college slot receivers in recent history
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Clemson WR, high-volume slot receiver
+- Clemson product. High-volume slot receiver. 75% slot rate translates to PPR value. Day 2-3 draft prospect.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Michael Trigg — TE, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 25 (source: ESPN/FantasyPros)
+- **College Stats**: Baylor — 80-1,089-9 across two campaigns. Longest TE arms in class.
+- **Draft Projection**: Round 3-5
+- **Key Stat**: 80 catches for 1,089 yards and 9 TDs across two seasons — most productive TE by total yardage in the class
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Baylor TE, most productive TE by total yardage in the class
+- Baylor product. Physical measurables (longest arms among TEs). Good college production. Day 2-3 draft prospect.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Kaytron Allen — RB, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 26 (source: ESPN/FantasyPros)
+- **College Stats**: Penn State — 3.35 YAC. Limited receiving role.
+- **Draft Projection**: Round 3-5
+- **Key Stat**: Penn State power back — 3.35 yards after contact but limited receiving limits PPR ceiling
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Penn State RB, power-back profile
+- Penn State product (alongside Singleton). Power-back profile. Limited receiving role hurts PPR value. Standard scoring back. Day 3 draft prospect.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Ja'Kobi Lane — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 27 (source: ESPN/FantasyPros)
+- **College Stats**: USC — biggest hands in class. 12 and 4 TDs in last two seasons.
+- **Draft Projection**: Round 3-5
+- **Key Stat**: Biggest hands in the WR class — contested-catch specialist from USC
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — USC WR, contested-catch specialist
+- USC product. Physical receiver with contested-catch ability. TD production (12 + 4 in last two years). Day 3 draft prospect.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Ty Simpson — QB, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 28 (source: ESPN/FantasyPros)
+- **College Stats**: Alabama — one-year starter. 76.6 QBR. Undersized.
+- **Draft Projection**: Round 1-2
+- **Key Stat**: One-year Alabama starter with 76.6 QBR — undersized but mobile QB with first-round talent
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Alabama QB, one-year starter with first-round potential
+- Alabama product. One-year starter limits evaluation sample. Undersized for NFL. Could go Day 1 if teams fall in love with arm talent. Fantasy value heavily dependent on landing spot and draft capital invested.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Deion Burks — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 29 (source: ESPN/FantasyPros)
+- **College Stats**: Oklahoma — 4.30 forty. Versatile alignments.
+- **Draft Projection**: Round 3-5
+- **Key Stat**: 4.30 forty — elite speed with versatile alignment flexibility (slot and outside)
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Oklahoma WR, speed receiver with versatile alignment
+- Oklahoma product. Speed profile (4.30) gives him deep-ball ability. Versatile alignment. Day 2-3 draft prospect.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
+
+## Ted Hurst — WR, TBD (2026 Draft)
+
+### STATUS
+PRE-DRAFT
+Last updated: 2026-04-03 by AGENT
+
+### THE DATA
+- **Current ADP**: [pending — pre-draft] (source: FantasyPros, date: 2026-04-03)
+- **Underdog ADP**: [pending — pre-draft] (date: 2026-04-03)
+- **ECR Positional Rank**: [pending — pre-draft] (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Rookie Fantasy Rank**: 30 (source: ESPN/FantasyPros)
+- **College Stats**: Georgia State — 26% target share. 45% air yard share.
+- **Draft Projection**: Round 4-6
+- **Key Stat**: 26% target share and 45% air yard share — small-school alpha who dominated targets
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| Half-PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+| PPR | [pending — pre-draft] | [pending — pre-draft] | [pending — pre-draft] | [pending] |
+
+Source: [pending — pre-draft], date: [pending — pre-draft]
+
+**Format Edge**: [pending — landing spot will determine format value]
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 2026 NFL Draft prospect — Georgia State WR, small-school alpha receiver
+- Georgia State product — small school raises competition-level concerns. Dominated targets at college level. Late-round dart throw. Dynasty stash candidate.
+
+### RANKING CHANGE TRIGGERS
+- NFL Draft landing spot (April 23-25, 2026) will dramatically affect fantasy value
+
+---
