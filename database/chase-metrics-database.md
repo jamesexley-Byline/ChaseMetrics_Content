@@ -4289,3 +4289,1385 @@ Source: [pending first scan], date: [pending first scan]
 - None currently — baseline entry
 
 ---
+
+<!-- ==================== TIGHT ENDS ==================== -->
+
+## Trey McBride — TE, Arizona Cardinals
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.01 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 2.12 (date: 2026-04-02)
+- **ECR Positional Rank**: TE1 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~28% (2025 season)
+- **Snap Count**: ~94% (2025 season)
+- **Red Zone Targets**: ~24 (2025 season)
+- **Key Stat**: Set TE record for receptions in a season (126) — averaged 15+ FPPG in half-PPR
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — record-setting 126 catches make him the clear TE1 in all PPR formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Set the all-time TE receptions record. Averaged 15+ fantasy points per game in half-PPR. Finished as overall TE1 by a wide margin.
+- New coaching staff in Arizona could alter usage — monitor. 11 TDs tied for 2nd in NFL among all positions.
+- 126 rec, 1,239 yds, 11 TD on 169 targets in 17 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Brock Bowers — TE, Las Vegas Raiders
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 3.06 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 3.04 (date: 2026-04-02)
+- **ECR Positional Rank**: TE2 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~24% (2025 season)
+- **Snap Count**: ~85% (2025 season)
+- **Red Zone Targets**: ~14 (2025 season)
+- **Key Stat**: Named to second straight Pro Bowl despite playing just 12 games — PCL injury and bone bruise limited production
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 3.06 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.06 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 3.06 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — when healthy, target volume projects to elite PPR output comparable to McBride
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Placed on IR with knee injury (PCL + bone bruise). Played through injury early before shutdown.
+- Record-breaking 2024 rookie season (112 rec, 1,194 yds) established him as generational talent. Health is the primary concern for 2026.
+- Raiders offensive situation remains challenging. 64 rec, 680 yds, 7 TD on ~90 targets in 12 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Sam LaPorta — TE, Detroit Lions
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 4.01 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 3.10 (date: 2026-04-02)
+- **ECR Positional Rank**: TE3 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~18% (2025 season)
+- **Snap Count**: ~88% (2025 season)
+- **Red Zone Targets**: ~6 (2025 season)
+- **Key Stat**: On pace for 76 rec, 924 yds, 6 TD before back injury ended his season — Drew Petzing (ex-ARI OC who fueled McBride) now running Lions offense
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 4.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Half-PPR — balanced production profile suits half-PPR best; new OC Petzing should increase target share
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Season ended by back surgery in Week 10. On pace for elite production before injury.
+- Drew Petzing hired as Lions OC — he was the Cardinals OC where McBride had 57 more targets than any other TE. Petzing's scheme should significantly boost LaPorta's target volume in 2026.
+- Health is the question mark. 40 rec, 489 yds, 3 TD on 45 targets in 9 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Tucker Kraft — TE, Green Bay Packers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 4.04 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 4.02 (date: 2026-04-02)
+- **ECR Positional Rank**: TE4 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~20% (2025 season)
+- **Snap Count**: ~88% (2025 season)
+- **Red Zone Targets**: ~10 (2025 season)
+- **Key Stat**: On pace for 70+ rec and 1,100 yds before torn ACL in Week 9 — would have been best TE season in Packers history
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 4.04 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.04 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 4.04 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Half-PPR — big-play ability and TD upside balance volume concerns for half-PPR value
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Top-scoring fantasy TE through first 8 weeks before torn ACL in right knee (November 2025).
+- On pace for historic Packers TE production. Recovery timeline targets 2026 training camp. ADP reflects injury discount.
+- When healthy, he was the most explosive TE in football — elite YAC. 32 rec, 489 yds, 6 TD on ~50 targets in 8 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Colston Loveland — TE, Chicago Bears
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 5.02 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 5.01 (date: 2026-04-02)
+- **ECR Positional Rank**: TE5 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~20% (2025 season)
+- **Snap Count**: ~82% (2025 season)
+- **Red Zone Targets**: ~12 (2025 season)
+- **Key Stat**: Named Bears Rookie of the Year — surpassed Sam LaPorta for most receiving yards by a rookie TE in the postseason (193 yards in 2 games)
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 5.02 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.02 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.02 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — 70 catches as a rookie show strong volume floor; DJ Moore trade clears more targets
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- 10th overall pick in 2025 Draft. 81.1 PFF overall grade (5th among TEs), 83.3 receiving grade (3rd).
+- DJ Moore trade to Buffalo opens significant additional targets. Hot finish to 2025 — emerged as Bears' top pass-catcher from Week 9 onward.
+- Massive breakout candidate for 2026. 70 rec, 906 yds, 6 TD on 106 targets in 17 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Tyler Warren — TE, Indianapolis Colts
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 5.04 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 5.02 (date: 2026-04-02)
+- **ECR Positional Rank**: TE6 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~20% (2025 season)
+- **Snap Count**: ~85% (2025 season)
+- **Red Zone Targets**: ~10 (2025 season)
+- **Key Stat**: Set Colts franchise record for TE receiving yards in a season (817) — finished TE6 in half-PPR scoring
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 5.04 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.04 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.04 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — 76 catches as a rookie provide strong PPR floor with room to grow
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Versatile skill set — also had 6 carries for 8 yards and a rushing TD. Led all TEs in receiving yards through first 8 weeks.
+- Finished as TE6 in half-PPR. Colts offense should improve with better health.
+- Multi-position usage adds snap count floor. 76 rec, 817 yds, 5 TD on ~105 targets in 17 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Harold Fannin Jr. — TE, Cleveland Browns
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 5.06 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 5.04 (date: 2026-04-02)
+- **ECR Positional Rank**: TE7 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~22% (2025 season)
+- **Snap Count**: ~82% (2025 season)
+- **Red Zone Targets**: ~12 (2025 season)
+- **Key Stat**: Broke Browns franchise rookie receptions record (72, surpassing Kevin Johnson's 66) — became de facto No. 1 receiver for Cleveland
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 5.06 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.06 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 5.06 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — 72 catches show strong target volume floor; primary pass-catcher role boosts PPR value
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Finished as TE9 in FPPG. Became Browns' top receiving option by midseason.
+- Exciting sophomore class of TEs alongside Loveland and Warren. Cleveland QB situation remains uncertain for 2026.
+- Landing a better QB would significantly boost ceiling. 72 rec, 731 yds, 6 TD on ~100 targets in 17 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## George Kittle — TE, San Francisco 49ers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 6.01 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 5.08 (date: 2026-04-02)
+- **ECR Positional Rank**: TE8 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~18% (2025 season)
+- **Snap Count**: ~85% (2025 season)
+- **Red Zone Targets**: ~14 (2025 season)
+- **Key Stat**: PFF's highest-graded TE of 2025 season despite playing just 12 games — 85.3% catch rate was elite
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 6.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 6.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 6.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — 7 TDs in 12 games show elite red zone efficiency; TD-dependent value favors standard
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Age 32 entering 2026. Expected to miss at least start of 2026 season due to injury.
+- Mike Evans signing gives Purdy another weapon but could reduce Kittle's target share.
+- When healthy, still the most efficient TE in football per PFF grades. Health risk creates significant ADP discount. 58 rec, 634 yds, 7 TD on ~75 targets in 12 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Dallas Goedert — TE, Philadelphia Eagles
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 6.04 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 6.02 (date: 2026-04-02)
+- **ECR Positional Rank**: TE9 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~16% (2025 season)
+- **Snap Count**: ~82% (2025 season)
+- **Red Zone Targets**: ~20 (2025 season)
+- **Key Stat**: Career-high 11 TDs — finished 7th among all TEs with 185.1 total fantasy points
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 6.04 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 6.04 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 6.04 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — 11 TDs make him elite in standard scoring; lower volume limits PPR ceiling
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Career year for TDs despite Eagles' run-first approach. 60 catches was also a career high.
+- Re-signed with Eagles for 2026. A.J. Brown and DeVonta Smith limit his target ceiling.
+- Red zone monster — 11 TDs on 60 catches is exceptional efficiency. 60 rec, ~650 yds, 11 TD on ~85 targets in 16 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Dalton Kincaid — TE, Buffalo Bills
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 7.01 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 6.06 (date: 2026-04-02)
+- **ECR Positional Rank**: TE10 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~14% (2025 season)
+- **Snap Count**: ~78% (2025 season)
+- **Red Zone Targets**: ~10 (2025 season)
+- **Key Stat**: Selected as Pro Bowl replacement despite playing entire 2025 season with a torn PCL
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 7.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 7.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 7.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Half-PPR — balanced production profile; DJ Moore arrival could reduce or enhance targets depending on scheme
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Played entire 2025 with torn PCL — incredible toughness. Career-high 5 TDs despite limited mobility.
+- DJ Moore trade adds target competition. Josh Allen's target distribution is the key variable.
+- When fully healthy, Kincaid's per-game upside is top-5 at the position. 39 rec, 571 yds, 5 TD on 60 targets in 12 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Jake Ferguson — TE, Dallas Cowboys
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 7.04 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 7.02 (date: 2026-04-02)
+- **ECR Positional Rank**: TE11 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~18% (2025 season)
+- **Snap Count**: ~86% (2025 season)
+- **Red Zone Targets**: ~16 (2025 season)
+- **Key Stat**: 82 catches and 8 TDs — reliable safety valve in Cowboys passing game alongside Lamb and Pickens
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 7.04 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 7.04 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 7.04 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — 82 catches provide strong PPR floor despite modest yardage
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Consistent target volume (82 rec) but low yards per catch (7.3) limits ceiling.
+- 8 TDs show red zone value. Lamb and Pickens dominate downfield targets — Ferguson is the short/intermediate option.
+- Safe TE1 floor but limited ceiling in a loaded Cowboys passing game. 82 rec, 600 yds, 8 TD on ~110 targets in 17 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Kyle Pitts — TE, Atlanta Falcons
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 7.08 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 7.06 (date: 2026-04-02)
+- **ECR Positional Rank**: TE12 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~20% (2025 season)
+- **Snap Count**: ~87% (2025 season)
+- **Red Zone Targets**: ~10 (2025 season)
+- **Key Stat**: Career-high 88 catches — finally delivered on his top-5 pick draft capital with a breakout season
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 7.08 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 7.08 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 7.08 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Half-PPR — 88 catches and 928 yards make half-PPR optimal; low TDs (5) hurt standard
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Best season since his 2021 rookie year. 88 catches and 928 yards are both career highs.
+- Still just 25 years old entering 2026. Drake London's presence limits red zone usage (only 5 TDs).
+- If TD output improves to match volume, Pitts has TE3-5 upside. 88 rec, 928 yds, 5 TD on 118 targets in 17 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Travis Kelce — TE, Kansas City Chiefs
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 8.01 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 7.10 (date: 2026-04-02)
+- **ECR Positional Rank**: TE13 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~18% (2025 season)
+- **Snap Count**: ~80% (2025 season)
+- **Red Zone Targets**: ~12 (2025 season)
+- **Key Stat**: 6th in TE receptions and 4th in TE receiving yards in 2025 — signed 3-year, $54.7M extension to return for 14th season
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 8.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 8.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 8.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Half-PPR — decent volume (76 rec) with yardage makes half-PPR best; declining TD output hurts standard
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Age 36 entering 2026 season. Signed 3-year extension to delay retirement.
+- Production declining from elite peaks but still a solid TE1. Rashee Rice's emergence as primary target limits Kelce's ceiling.
+- Name value may inflate ADP beyond current production level. 76 rec, 851 yds, 5 TD on ~100 targets in 17 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Mark Andrews — TE, Baltimore Ravens
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 8.04 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 8.02 (date: 2026-04-02)
+- **ECR Positional Rank**: TE14 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~14% (2025 season)
+- **Snap Count**: ~75% (2025 season)
+- **Red Zone Targets**: ~10 (2025 season)
+- **Key Stat**: Became Ravens' all-time receiving yards leader despite declining per-game production
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 8.04 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 8.04 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 8.04 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — 5 TDs on limited volume make him TD-dependent and better in standard
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Significant production decline — 422 yards is his lowest since his rookie year. Ravens' run-first scheme limits passing volume.
+- Isaiah Likely's emergence creates target competition. Historic career achievement (Ravens receiving record) but fantasy value is fading.
+- Still has red zone gravity. 48 rec, 422 yds, 5 TD on ~70 targets in 17 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Pat Freiermuth — TE, Pittsburgh Steelers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 8.08 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 8.06 (date: 2026-04-02)
+- **ECR Positional Rank**: TE15 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~16% (2025 season)
+- **Snap Count**: ~80% (2025 season)
+- **Red Zone Targets**: ~12 (2025 season)
+- **Key Stat**: 6 TDs show strong red zone usage — projected for 91 fantasy points in 2026
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 8.08 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 8.08 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 8.08 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — 6 TDs on moderate volume favor standard scoring
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Shared targets with multiple TEs in Pittsburgh, limiting volume. DK Metcalf's presence creates additional target competition.
+- Red zone usage remains strong. Projected for steady but unspectacular 2026 production.
+- Safe TE2 with TE1 weekly upside. 52 rec, 550 yds, 6 TD on ~75 targets in 16 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Evan Engram — TE, Denver Broncos
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 9.02 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 9.01 (date: 2026-04-02)
+- **ECR Positional Rank**: TE16 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~14% (2025 season)
+- **Snap Count**: ~72% (2025 season)
+- **Red Zone Targets**: ~4 (2025 season)
+- **Key Stat**: Released by Jaguars and signed with Broncos — career-low 1 TD in 2025 signals red zone decline
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 9.02 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 9.02 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 9.02 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — 50 catches provide modest PPR floor but no TD upside
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Released by Jacksonville, signed with Denver. Jaylen Waddle trade to Broncos adds significant target competition.
+- 1 TD in 16 games is alarming. Projected for just 54 catches and 2 TDs in 2026.
+- Role may shrink further with Waddle's arrival. Declining asset. 50 rec, 461 yds, 1 TD on ~70 targets in 16 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## David Njoku — TE, Cleveland Browns
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 9.06 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 9.04 (date: 2026-04-02)
+- **ECR Positional Rank**: TE17 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~18% (2025 season)
+- **Snap Count**: ~80% (2025 season)
+- **Red Zone Targets**: ~10 (2025 season)
+- **Key Stat**: 5 TDs and 55 catches — steady veteran production but Harold Fannin Jr. has overtaken him as Browns' primary TE
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 9.06 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 9.06 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 9.06 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — modest volume with decent TDs favors standard scoring
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Fannin Jr.'s emergence as Cleveland's top receiving option limits Njoku's target ceiling. Shared TE duties throughout 2025.
+- Age 28 entering 2026. Projected for 55 catches, 540 yds, 5 TDs.
+- Solid but declining floor. 55 rec, 540 yds, 5 TD on ~80 targets in 16 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Dalton Schultz — TE, Houston Texans
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 10.01 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 9.08 (date: 2026-04-02)
+- **ECR Positional Rank**: TE18 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~14% (2025 season)
+- **Snap Count**: ~78% (2025 season)
+- **Red Zone Targets**: ~8 (2025 season)
+- **Key Stat**: 65 catches show reliable volume floor in the Texans' high-powered passing game
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 10.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 10.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 10.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — 65 catches provide solid PPR floor; low TDs (4) limit standard value
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Reliable but unexciting TE option. Nico Collins and other pass-catchers limit ceiling.
+- Projected for 65 catches, 650 yds, 4 TDs in 2026. Safe TE2 floor in PPR formats.
+- Houston's offensive firepower ensures adequate passing volume. 65 rec, 650 yds, 4 TD on ~90 targets in 17 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Cade Otton — TE, Tampa Bay Buccaneers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 10.04 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 10.02 (date: 2026-04-02)
+- **ECR Positional Rank**: TE19 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~16% (2025 season)
+- **Snap Count**: ~80% (2025 season)
+- **Red Zone Targets**: ~6 (2025 season)
+- **Key Stat**: 59 catches and 572 yards were solid volume numbers but just 1 TD is a major red zone concern
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 10.04 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 10.04 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 10.04 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — 59 catches provide modest PPR floor but zero TD upside kills standard value
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Mike Evans departure and Godwin's absence open target path for 2026. Egbuka's inconsistent stretch may create more opportunities for Otton.
+- Projected for 57 rec, 590 yds, 4 TDs in 2026. If TB passes more, Otton could see a volume spike.
+- 59 rec, 572 yds, 1 TD on ~80 targets in 17 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Noah Gray — TE, Kansas City Chiefs
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 10.08 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 10.06 (date: 2026-04-02)
+- **ECR Positional Rank**: TE20 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~8% (2025 season)
+- **Snap Count**: ~65% (2025 season)
+- **Red Zone Targets**: ~4 (2025 season)
+- **Key Stat**: Career-worst season (21 rec, 0 TD) despite being locked into 3-year extension — Kelce's presence continues to suppress value
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 10.08 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 10.08 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 10.08 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — if Kelce retires, Gray becomes a TD-dependent TE; currently not viable in any format
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Heir apparent to Kelce at TE for the Chiefs. 3-year extension keeps him in KC through 2026.
+- Current production is not fantasy-relevant with Kelce still active. If Kelce retires or misses time, Gray's value spikes dramatically.
+- Stash candidate in deeper leagues only. Projected for 43 catches, 440 yds, 5 TDs. 21 rec, 178 yds, 0 TD on ~30 targets in 16 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Chig Okonkwo — TE, Tennessee Titans
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 11.02 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 11.01 (date: 2026-04-02)
+- **ECR Positional Rank**: TE21 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~16% (2025 season)
+- **Snap Count**: ~78% (2025 season)
+- **Red Zone Targets**: ~8 (2025 season)
+- **Key Stat**: Consistent volume (58 rec) as Titans' primary TE option
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 11.02 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 11.02 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 11.02 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Half-PPR — balanced production profile suits half-PPR best
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Wan'Dale Robinson signing adds target competition in the Titans' passing game. Projected for 58 rec, 580 yds, 4 TDs in 2026.
+- Brian Daboll's OC system typically supports TE usage. Solid streaming option but unlikely to be a consistent TE1.
+- 58 rec, 580 yds, 4 TD on ~80 targets in 17 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Isaiah Likely — TE, Baltimore Ravens
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 11.06 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 11.04 (date: 2026-04-02)
+- **ECR Positional Rank**: TE22 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~12% (2025 season)
+- **Snap Count**: ~65% (2025 season)
+- **Red Zone Targets**: ~8 (2025 season)
+- **Key Stat**: 5 TDs despite sharing snaps with Mark Andrews — Ravens' most efficient pass-catching TE
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 11.06 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 11.06 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 11.06 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — TD efficiency on limited volume makes standard scoring more favorable
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Splitting time with Mark Andrews limits ceiling. If Andrews declines further or departs, Likely becomes a top-15 TE.
+- Projected for 48 rec, 520 yds, 5 TDs in 2026. Ravens' run-first approach limits overall passing volume.
+- Upside is tied to Andrews' future. 48 rec, 520 yds, 5 TD on ~68 targets in 17 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Jonnu Smith — TE, Pittsburgh Steelers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 12.01 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 11.10 (date: 2026-04-02)
+- **ECR Positional Rank**: TE23 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~14% (2025 season)
+- **Snap Count**: ~72% (2025 season)
+- **Red Zone Targets**: ~6 (2025 season)
+- **Key Stat**: Couldn't replicate his 2024 Dolphins breakout (84 rec, 933 yds) after moving to Pittsburgh
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 12.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 12.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 12.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — modest volume (48 rec) provides PPR floor but limited ceiling in all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Significant production decline from 2024 breakout in Miami. Pittsburgh offense limited passing volume.
+- Shared targets with Freiermuth. Projected for 48 rec, 490 yds, 3 TDs in 2026.
+- Career journeyman profile — production is scheme-dependent. 48 rec, 490 yds, 3 TD on ~70 targets in 16 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Mike Gesicki — TE, Cincinnati Bengals
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 12.04 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 12.02 (date: 2026-04-02)
+- **ECR Positional Rank**: TE24 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~12% (2025 season)
+- **Snap Count**: ~70% (2025 season)
+- **Red Zone Targets**: ~6 (2025 season)
+- **Key Stat**: Steady complementary TE behind Chase and Higgins in Cincinnati's passing attack
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 12.04 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 12.04 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 12.04 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — 50 catches provide mild PPR floor; TD upside is minimal
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Third or fourth option in Bengals' passing game behind Chase and Higgins. Limited red zone usage.
+- Projected for 50 rec, 510 yds, 3 TDs. Streaming option only.
+- If Tee Higgins departs in free agency, Gesicki could see target share increase. 50 rec, 510 yds, 3 TD on ~70 targets in 16 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Cole Kmet — TE, Chicago Bears
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 12.08 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 12.06 (date: 2026-04-02)
+- **ECR Positional Rank**: TE25 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~10% (2025 season)
+- **Snap Count**: ~68% (2025 season)
+- **Red Zone Targets**: ~4 (2025 season)
+- **Key Stat**: Production declined significantly with Colston Loveland taking over as Bears' primary TE
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 12.08 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 12.08 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 12.08 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — limited volume kills PPR value; only rosterable in TE-premium or deep leagues
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Loveland's emergence pushed Kmet to TE2 role in Chicago. Production declined from 2024 levels.
+- Projected for 35 rec, 370 yds, 2 TDs. DJ Moore trade benefits Loveland more than Kmet.
+- Declining fantasy asset — may not be roster-worthy in standard leagues. 35 rec, 370 yds, 2 TD on ~50 targets in 16 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Dawson Knox — TE, Buffalo Bills
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 13.02 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 12.10 (date: 2026-04-02)
+- **ECR Positional Rank**: TE26 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~10% (2025 season)
+- **Snap Count**: ~70% (2025 season)
+- **Red Zone Targets**: ~8 (2025 season)
+- **Key Stat**: 4 TDs show continued red zone presence with Josh Allen despite modest overall volume
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 13.02 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 13.02 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 13.02 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — TD-dependent value makes standard the better format; limited PPR ceiling
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Kincaid's presence caps Knox's target ceiling. DJ Moore arrival adds further target competition.
+- Red zone TD upside remains but is inconsistent. Projected for 38 rec, 430 yds, 4 TDs.
+- Deep-league streaming option. 38 rec, 430 yds, 4 TD on ~55 targets in 15 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Grant Calcaterra — TE, Philadelphia Eagles
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 13.06 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 13.04 (date: 2026-04-02)
+- **ECR Positional Rank**: TE27 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~10% (2025 season)
+- **Snap Count**: ~68% (2025 season)
+- **Red Zone Targets**: ~6 (2025 season)
+- **Key Stat**: Carved out a role behind Dallas Goedert with 4 TDs — Eagles' TE2 with upside if Goedert misses time
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 13.06 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 13.06 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 13.06 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — TD-dependent handcuff value
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Eagles TE2 behind Goedert. Would become a top-15 TE if Goedert missed significant time.
+- Projected for 39 rec, 430 yds, 4 TDs. Handcuff value in deeper leagues.
+- 39 rec, 430 yds, 4 TD on ~55 targets in 16 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Colby Parkinson — TE, Los Angeles Rams
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 13.10 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 13.08 (date: 2026-04-02)
+- **ECR Positional Rank**: TE28 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~10% (2025 season)
+- **Snap Count**: ~72% (2025 season)
+- **Red Zone Targets**: ~12 (2025 season)
+- **Key Stat**: 6 TDs show strong red zone usage in the Rams' offense alongside Puka Nacua and Davante Adams
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 13.10 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 13.10 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 13.10 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Standard — 6 TDs on modest volume make standard scoring the sweet spot
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Red zone efficiency is notable (6 TDs on 45 catches). Nacua and Adams dominate target share but Parkinson carves out red zone niche.
+- Projected for 45 rec, 440 yds, 6 TDs. Streaming option in standard scoring.
+- Rams' passing volume supports multiple pass-catchers. 45 rec, 440 yds, 6 TD on ~65 targets in 17 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Mason Taylor — TE, New York Jets
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 14.02 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 14.01 (date: 2026-04-02)
+- **ECR Positional Rank**: TE29 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~14% (2025 season)
+- **Snap Count**: ~75% (2025 season)
+- **Red Zone Targets**: ~8 (2025 season)
+- **Key Stat**: Solid rookie production — emerged as a reliable safety valve in the Jets' passing game
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 14.02 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.02 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.02 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — 55 catches provide mild PPR floor; room to grow in Year 2
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Projected for 55 rec, 520 yds, 4 TDs in 2026. Jets' QB situation remains volatile which caps ceiling.
+- Showed enough as a rookie to warrant TE2 status. Could break out if Jets solve their QB situation.
+- 55 rec, 520 yds, 4 TD on ~75 targets in 17 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Ja'Tavion Sanders — TE, Carolina Panthers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 14.06 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 14.04 (date: 2026-04-02)
+- **ECR Positional Rank**: TE30 of TE (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **Target Share**: ~12% (2025 season)
+- **Snap Count**: ~70% (2025 season)
+- **Red Zone Targets**: ~4 (2025 season)
+- **Key Stat**: McMillan's dominance limited Sanders' target share — 41 catches was modest for a second-year TE
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 14.06 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.06 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.06 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: PPR — enough catches (41) for deep-league PPR relevance
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Tetairoa McMillan's emergence as Panthers' WR1 limits Sanders' target ceiling. Projected for 41 rec, 410 yds, 2 TDs.
+- Deep-league option only. Panthers' offense is still developing which could open more opportunities over time.
+- 41 rec, 410 yds, 2 TD on ~60 targets in 16 games in 2025.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
