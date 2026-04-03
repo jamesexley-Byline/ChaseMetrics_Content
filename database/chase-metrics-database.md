@@ -5671,3 +5671,1355 @@ Source: [pending first scan], date: [pending first scan]
 - None currently — baseline entry
 
 ---
+
+<!-- ==================== KICKERS ==================== -->
+
+## Brandon Aubrey — K, Dallas Cowboys
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 14.01 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 14.01 (date: 2026-04-02)
+- **ECR Positional Rank**: K1 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 86% (2025 season)
+- **FG Attempts**: 42 (2025 season)
+- **50+ Yard FG Made**: 8 (2025 season)
+- **Points Scored**: 155 (2025 season)
+- **Key Stat**: One of the most prolific scorers at the position — 42 FG attempts led by high-volume offense that stalls in the red zone
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 14.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Dallas offense generated massive FG volume. 42 attempts among league leaders. Elite leg strength with 50+ yard range.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Ka'imi Fairbairn — K, Houston Texans
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 14.03 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 14.03 (date: 2026-04-02)
+- **ECR Positional Rank**: K2 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 92% (2025 season)
+- **FG Attempts**: 48 (2025 season)
+- **50+ Yard FG Made**: 7 (2025 season)
+- **Points Scored**: 160 (2025 season)
+- **Key Stat**: League-high 44 FG made with 92% accuracy — elite combination of volume and efficiency
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 14.03 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.03 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.03 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Best volume-efficiency combo in the NFL. 48 FGA and 92% accuracy. Houston's high-powered offense fuels consistent opportunities.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Cameron Dicker — K, Los Angeles Chargers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 14.05 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 14.05 (date: 2026-04-02)
+- **ECR Positional Rank**: K3 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 93% (2025 season)
+- **FG Attempts**: 41 (2025 season)
+- **50+ Yard FG Made**: 6 (2025 season)
+- **Points Scored**: 148 (2025 season)
+- **Key Stat**: 93% FG accuracy on 41 attempts — one of the most accurate high-volume kickers in football
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 14.05 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.05 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.05 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Elite accuracy (93%) with strong volume. Chargers' offensive efficiency creates consistent scoring opportunities.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Jason Myers — K, Seattle Seahawks
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 14.07 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 14.07 (date: 2026-04-02)
+- **ECR Positional Rank**: K4 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 85% (2025 season)
+- **FG Attempts**: 48 (2025 season)
+- **50+ Yard FG Made**: 9 (2025 season)
+- **Points Scored**: 171 (2025 season)
+- **Key Stat**: Led all kickers in points scored (171) — NFL-high 48 FG attempts reflect Seattle's FG-heavy approach
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 14.07 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.07 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.07 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Points leader among all kickers. 48 FGA was NFL-high. Seattle's offensive profile generates league-leading FG volume.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Harrison Butker — K, Kansas City Chiefs
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 14.09 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 14.09 (date: 2026-04-02)
+- **ECR Positional Rank**: K5 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 87% (2025 season)
+- **FG Attempts**: 38 (2025 season)
+- **50+ Yard FG Made**: 5 (2025 season)
+- **Points Scored**: 130 (2025 season)
+- **Key Stat**: 87% accuracy with one of the NFL's best offenses — Chiefs' red zone efficiency limits attempts but Butker is money
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 14.09 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.09 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.09 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Chiefs' elite offense provides steady opportunities. 87% accuracy is reliable. Lower attempt volume than top kickers due to TD-heavy offense.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Will Reichard — K, Minnesota Vikings
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 14.11 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 14.11 (date: 2026-04-02)
+- **ECR Positional Rank**: K6 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 94% (2025 season)
+- **FG Attempts**: 35 (2025 season)
+- **50+ Yard FG Made**: 5 (2025 season)
+- **Points Scored**: 130 (2025 season)
+- **Key Stat**: 94% FG accuracy — most accurate kicker in the NFL with 100% on extra points (31/31)
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 14.11 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.11 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 14.11 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- NFL's most accurate kicker (94%). Perfect on extra points. Vikings offense provides consistent scoring opportunities.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Jake Bates — K, Detroit Lions
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 15.01 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 15.01 (date: 2026-04-02)
+- **ECR Positional Rank**: K7 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 79% (2025 season)
+- **FG Attempts**: 34 (2025 season)
+- **50+ Yard FG Made**: 6 (2025 season)
+- **Points Scored**: 135 (2025 season)
+- **Key Stat**: Lions' elite offense generated 54 XP attempts (56 with misses) — massive extra point volume
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 15.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 15.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 15.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Lions' league-best offense fuels XP volume (54 made). FG accuracy (79%) is a concern. Elite leg strength for 50+ attempts.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Tyler Loop — K, Baltimore Ravens
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 15.03 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 15.03 (date: 2026-04-02)
+- **ECR Positional Rank**: K8 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 88% (2025 season)
+- **FG Attempts**: 34 (2025 season)
+- **50+ Yard FG Made**: 5 (2025 season)
+- **Points Scored**: 134 (2025 season)
+- **Key Stat**: Steady first full NFL season — 88% accuracy as Ravens' new kicker
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 15.03 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 15.03 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 15.03 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Ravens offense provides consistent opportunities. Solid accuracy in first year as starter. Run-heavy offense may limit total FGA compared to pass-heavy teams.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Cam Little — K, Jacksonville Jaguars
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 15.05 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 15.05 (date: 2026-04-02)
+- **ECR Positional Rank**: K9 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 88% (2025 season)
+- **FG Attempts**: 34 (2025 season)
+- **50+ Yard FG Made**: 4 (2025 season)
+- **Points Scored**: 140 (2025 season)
+- **Key Stat**: 140 points with 88% FG accuracy — strong XP volume (50/51) boosted his total
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 15.05 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 15.05 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 15.05 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- High XP volume from Jacksonville's offense. 88% FG accuracy is solid. Jaguars' offensive outlook for 2026 will determine value.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Eddy Pineiro — K, San Francisco 49ers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 15.07 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 15.07 (date: 2026-04-02)
+- **ECR Positional Rank**: K10 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 97% (2025 season)
+- **FG Attempts**: 29 (2025 season)
+- **50+ Yard FG Made**: 4 (2025 season)
+- **Points Scored**: 118 (2025 season)
+- **Key Stat**: 97% FG accuracy (28/29) — most accurate kicker by percentage in the NFL
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 15.07 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 15.07 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 15.07 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Incredible 97% accuracy but lower volume (29 FGA). 49ers offense often reaches end zone, limiting FG attempts. If offense stalls more, volume increases.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Chris Boswell — K, Pittsburgh Steelers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 15.09 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 15.09 (date: 2026-04-02)
+- **ECR Positional Rank**: K11 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 84% (2025 season)
+- **FG Attempts**: 32 (2025 season)
+- **50+ Yard FG Made**: 5 (2025 season)
+- **Points Scored**: 123 (2025 season)
+- **Key Stat**: Veteran reliability — 84% accuracy with strong leg for 50+ yard attempts
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 15.09 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 15.09 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 15.09 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Consistent veteran kicker. Steelers offense generates adequate FG volume. Reliable streaming option.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Wil Lutz — K, Denver Broncos
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 15.11 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 15.11 (date: 2026-04-02)
+- **ECR Positional Rank**: K12 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 88% (2025 season)
+- **FG Attempts**: 32 (2025 season)
+- **50+ Yard FG Made**: 4 (2025 season)
+- **Points Scored**: 123 (2025 season)
+- **Key Stat**: Perfect on extra points (39/39) with 88% FG accuracy — model of consistency
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 15.11 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 15.11 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 15.11 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Perfect on XP with strong FG accuracy. Broncos' improving offense could boost volume in 2026. Reliable weekly floor.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Evan McPherson — K, Cincinnati Bengals
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 16.01 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 16.01 (date: 2026-04-02)
+- **ECR Positional Rank**: K13 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 89% (2025 season)
+- **FG Attempts**: 28 (2025 season)
+- **50+ Yard FG Made**: 4 (2025 season)
+- **Points Scored**: 116 (2025 season)
+- **Key Stat**: 89% accuracy — Bengals' explosive offense often bypasses FG range, limiting attempts
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 16.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 16.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 16.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Bengals' TD-heavy offense limits FG volume. Accurate when called upon (89%). Playoff-tested kicker.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Riley Patterson — K, Miami Dolphins
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 16.03 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 16.03 (date: 2026-04-02)
+- **ECR Positional Rank**: K14 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 93% (2025 season)
+- **FG Attempts**: 29 (2025 season)
+- **50+ Yard FG Made**: 3 (2025 season)
+- **Points Scored**: 115 (2025 season)
+- **Key Stat**: 93% accuracy on 29 attempts — efficient but low-volume
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 16.03 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 16.03 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 16.03 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Very accurate (93%) but Dolphins' offense limits FG opportunities. Low volume caps ceiling.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Chase McLaughlin — K, Tampa Bay Buccaneers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 16.05 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 16.05 (date: 2026-04-02)
+- **ECR Positional Rank**: K15 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 84% (2025 season)
+- **FG Attempts**: 38 (2025 season)
+- **50+ Yard FG Made**: 5 (2025 season)
+- **Points Scored**: 128 (2025 season)
+- **Key Stat**: 38 FGA show strong volume — Buccaneers offense generates plenty of scoring chances
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 16.05 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 16.05 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 16.05 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Good volume (38 FGA) from Tampa's offense. Accuracy (84%) could improve. Solid streaming option.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Cairo Santos — K, Chicago Bears
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 16.07 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 16.07 (date: 2026-04-02)
+- **ECR Positional Rank**: K16 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 83% (2025 season)
+- **FG Attempts**: 30 (2025 season)
+- **50+ Yard FG Made**: 3 (2025 season)
+- **Points Scored**: 114 (2025 season)
+- **Key Stat**: Perfect on extra points (39/39) — reliable veteran in a developing Bears offense
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 16.07 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 16.07 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 16.07 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Perfect XP rate. Bears offense trending up which should increase opportunities. Reliable veteran.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Andy Borregales — K, New England Patriots
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 16.09 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 16.09 (date: 2026-04-02)
+- **ECR Positional Rank**: K17 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 84% (2025 season)
+- **FG Attempts**: 32 (2025 season)
+- **50+ Yard FG Made**: 4 (2025 season)
+- **Points Scored**: 134 (2025 season)
+- **Key Stat**: 134 points scored despite playing for one of the NFL's weaker offenses
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 16.09 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 16.09 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 16.09 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Strong scoring output despite New England's limited offense. If offense improves, volume could spike. Solid under-the-radar option.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Nick Folk — K, Atlanta Falcons
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 16.11 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 16.11 (date: 2026-04-02)
+- **ECR Positional Rank**: K18 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 97% (2025 season)
+- **FG Attempts**: 29 (2025 season)
+- **50+ Yard FG Made**: 3 (2025 season)
+- **Points Scored**: 106 (2025 season)
+- **Key Stat**: Tied for best FG accuracy in NFL at 97% (28/29) — missed just 1 field goal all season
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 16.11 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 16.11 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 16.11 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Elite accuracy but lower volume in Atlanta's TD-heavy offense. Veteran reliability. Age is a factor (age 38 entering 2026).
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Blake Grupe — K, Indianapolis Colts
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 17.01 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 17.01 (date: 2026-04-02)
+- **ECR Positional Rank**: K19 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 78% (2025 season)
+- **FG Attempts**: 37 (2025 season)
+- **50+ Yard FG Made**: 5 (2025 season)
+- **Points Scored**: 112 (2025 season)
+- **Key Stat**: High volume (37 FGA) but concerning accuracy (78%) — Colts' offense provides plenty of opportunities
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 17.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 17.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 17.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- High volume but accuracy needs improvement. Colts' offense provides scoring chances. Could be replaced if accuracy doesn't improve.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Chad Ryland — K, Arizona Cardinals
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 17.03 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 17.03 (date: 2026-04-02)
+- **ECR Positional Rank**: K20 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 76% (2025 season)
+- **FG Attempts**: 33 (2025 season)
+- **50+ Yard FG Made**: 4 (2025 season)
+- **Points Scored**: 111 (2025 season)
+- **Key Stat**: 33 FGA show decent volume but 76% accuracy is concerning
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 17.03 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 17.03 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 17.03 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Decent volume from Cardinals offense but accuracy is below league average. Job could be in jeopardy if trend continues.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Joey Slye — K, Tennessee Titans
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 17.05 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 17.05 (date: 2026-04-02)
+- **ECR Positional Rank**: K21 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 80% (2025 season)
+- **FG Attempts**: 35 (2025 season)
+- **50+ Yard FG Made**: 5 (2025 season)
+- **Points Scored**: 110 (2025 season)
+- **Key Stat**: Strong leg with 50+ yard range — 35 FGA shows decent volume
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 17.05 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 17.05 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 17.05 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Titans' developing offense provides moderate FG volume. Strong leg for long-range attempts. Accuracy (80%) is middling.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Jake Elliott — K, Philadelphia Eagles
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 17.07 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 17.07 (date: 2026-04-02)
+- **ECR Positional Rank**: K22 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 74% (2025 season)
+- **FG Attempts**: 27 (2025 season)
+- **50+ Yard FG Made**: 3 (2025 season)
+- **Points Scored**: 101 (2025 season)
+- **Key Stat**: Eagles' dominant rushing attack limits FG opportunities — 27 FGA was a career low
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 17.07 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 17.07 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 17.07 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Eagles' run-first, TD-heavy offense severely limits FG volume. 74% accuracy in 2025 was a down year. Reliable historically but volume concerns.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Brandon McManus — K, Green Bay Packers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 17.09 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 17.09 (date: 2026-04-02)
+- **ECR Positional Rank**: K23 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 80% (2025 season)
+- **FG Attempts**: 30 (2025 season)
+- **50+ Yard FG Made**: 4 (2025 season)
+- **Points Scored**: 104 (2025 season)
+- **Key Stat**: Packers offense generates moderate FG opportunities — 30 FGA with 80% accuracy
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 17.09 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 17.09 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 17.09 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Packers' efficient offense limits FG volume. Steady but unspectacular production. Streaming option.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Matt Prater — K, Buffalo Bills
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 17.11 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 17.11 (date: 2026-04-02)
+- **ECR Positional Rank**: K24 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 90% (2025 season)
+- **FG Attempts**: 20 (2025 season)
+- **50+ Yard FG Made**: 3 (2025 season)
+- **Points Scored**: 100 (2025 season)
+- **Key Stat**: 90% accuracy on limited attempts — Bills' elite offense converts most drives into TDs, limiting FG needs
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 17.11 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 17.11 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 17.11 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Bills' explosive offense severely limits FG attempts (only 20). Very accurate (90%) when called upon. Low volume caps fantasy ceiling.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Ryan Fitzgerald — K, Carolina Panthers
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 18.01 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 18.01 (date: 2026-04-02)
+- **ECR Positional Rank**: K25 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 83% (2025 season)
+- **FG Attempts**: 29 (2025 season)
+- **50+ Yard FG Made**: 3 (2025 season)
+- **Points Scored**: 99 (2025 season)
+- **Key Stat**: Solid first-year showing — Panthers' developing offense could increase volume in 2026
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 18.01 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 18.01 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 18.01 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Young kicker with room to grow. Panthers' offense expected to improve which could boost volume.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Greg Zuerlein — K, New York Jets
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 18.03 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 18.03 (date: 2026-04-02)
+- **ECR Positional Rank**: K26 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 82% (2025 season)
+- **FG Attempts**: 28 (2025 season)
+- **50+ Yard FG Made**: 4 (2025 season)
+- **Points Scored**: 97 (2025 season)
+- **Key Stat**: Veteran kicker with strong leg — Jets' inconsistent offense provides moderate FG opportunities
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 18.03 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 18.03 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 18.03 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Veteran with big-game experience. Jets' offensive inconsistency creates boom-bust scoring profile. Streaming option in favorable matchups.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Dustin Hopkins — K, Cleveland Browns
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 18.05 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 18.05 (date: 2026-04-02)
+- **ECR Positional Rank**: K27 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 85% (2025 season)
+- **FG Attempts**: 26 (2025 season)
+- **50+ Yard FG Made**: 3 (2025 season)
+- **Points Scored**: 94 (2025 season)
+- **Key Stat**: 85% accuracy — reliable when called upon but Browns' offense limits total scoring chances
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 18.05 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 18.05 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 18.05 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Cleveland's struggling offense limits FG volume. Accurate kicker stuck in a bad situation. Value tied to Browns' offensive improvement.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Graham Gano — K, New Orleans Saints
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 18.07 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 18.07 (date: 2026-04-02)
+- **ECR Positional Rank**: K28 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 86% (2025 season)
+- **FG Attempts**: 22 (2025 season)
+- **50+ Yard FG Made**: 2 (2025 season)
+- **Points Scored**: 88 (2025 season)
+- **Key Stat**: Accurate veteran (86%) but limited to lower volume — age 38 entering 2026
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 18.07 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 18.07 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 18.07 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Aging veteran with accuracy but declining volume. Saints' QB situation could affect offensive production. Streaming option only.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Daniel Carlson — K, Las Vegas Raiders
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 18.09 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 18.09 (date: 2026-04-02)
+- **ECR Positional Rank**: K29 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 84% (2025 season)
+- **FG Attempts**: 25 (2025 season)
+- **50+ Yard FG Made**: 4 (2025 season)
+- **Points Scored**: 92 (2025 season)
+- **Key Stat**: Raiders' struggling offense limits FG volume — strong leg keeps him relevant from 50+
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 18.09 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 18.09 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 18.09 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Raiders' poor offense limits total scoring. Strong leg for deep FGs. Value depends entirely on Raiders' 2026 offensive improvement.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---
+
+## Matt Gay — K, Washington Commanders
+
+### STATUS
+ACTIVE
+Last updated: 2026-04-02 by AGENT
+
+### THE DATA
+- **Current ADP**: 18.11 (source: FantasyPros, date: 2026-04-02)
+- **Underdog ADP**: 18.11 (date: 2026-04-02)
+- **ECR Positional Rank**: K30 of K (source: FantasyPros)
+- **Byline Rank**: [not yet set — awaiting editorial]
+- **FG %**: 87% (2025 season)
+- **FG Attempts**: 23 (2025 season)
+- **50+ Yard FG Made**: 3 (2025 season)
+- **Points Scored**: 95 (2025 season)
+- **Key Stat**: Commanders' improving offense with Jayden Daniels could boost FG opportunities in 2026
+
+### SCORING PROJECTIONS
+| Format | Projected Points | Positional Rank | Overall Rank | ADP |
+|--------|-----------------|-----------------|--------------|-----|
+| Standard | [pending first scan] | [pending first scan] | [pending first scan] | 18.11 |
+| Half-PPR | [pending first scan] | [pending first scan] | [pending first scan] | 18.11 |
+| PPR | [pending first scan] | [pending first scan] | [pending first scan] | 18.11 |
+
+Source: [pending first scan], date: [pending first scan]
+
+**Format Edge**: Kicker scoring is the same across all formats
+
+### THE TAKE (EDITORIAL — DO NOT MODIFY)
+[Awaiting editorial input via Cowork channel]
+
+### CONFIDENCE (EDITORIAL — DO NOT MODIFY)
+[Not yet set]
+
+### CONTENT HISTORY (EDITORIAL — DO NOT MODIFY)
+[No content published yet]
+
+### AGENT NOTES
+- Commanders' ascending offense may increase opportunities. 87% accuracy is solid. Upside play if Washington's offense takes another step forward.
+
+### RANKING CHANGE TRIGGERS
+- None currently — baseline entry
+
+---

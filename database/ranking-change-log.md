@@ -127,3 +127,33 @@
 | 2026-04-02 08:00 | Colby Parkinson | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
 | 2026-04-02 08:00 | Mason Taylor | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
 | 2026-04-02 08:00 | Ja'Tavion Sanders | [NEW ENTRY] | — | Initial entry | Database population — initial build | ESPN, Underdog |
+| 2026-04-02 08:00 | Brandon Aubrey | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Ka'imi Fairbairn | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Cameron Dicker | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Jason Myers | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Harrison Butker | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Will Reichard | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Jake Bates | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Tyler Loop | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Cam Little | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Eddy Pineiro | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Chris Boswell | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Wil Lutz | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Evan McPherson | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Riley Patterson | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Chase McLaughlin | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Cairo Santos | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Andy Borregales | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Nick Folk | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Blake Grupe | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Chad Ryland | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Joey Slye | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Jake Elliott | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Brandon McManus | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Matt Prater | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Ryan Fitzgerald | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Greg Zuerlein | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Dustin Hopkins | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Graham Gano | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Daniel Carlson | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
+| 2026-04-02 08:00 | Matt Gay | [NEW ENTRY] | — | Initial entry | Database population — initial build | FOX Sports, ESPN |
