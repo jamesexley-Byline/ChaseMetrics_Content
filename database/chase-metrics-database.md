@@ -2,7 +2,7 @@
 
 > Single source of truth for Byline's player data and editorial positions.
 > Data fields maintained by the Chase Metrics agent. Editorial fields maintained in the Cowork channel.
-> Last full scan: [pending first run]
+> Last full scan: 2026-04-03 — Initial database population complete (180 entries)
 
 ---
 
